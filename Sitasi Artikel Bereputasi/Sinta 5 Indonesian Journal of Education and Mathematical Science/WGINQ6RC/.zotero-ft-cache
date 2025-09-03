@@ -1,0 +1,107 @@
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 58~63 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.18086
+58
+Application of Integrals in Calculating Ball Volume using GeoGebra
+Irvan
+Universitas Muhammadiyah Sumatera Utara, Medan, Indonesia irvan@umsu.ac.id
+ABSTRACT
+Integral Calculus is a form of mathematics learning that can be applied in everyday life. One application is in calculating the volume of rotating objects. In this research, we combine integral concepts in calculus with the numerical and visualization capabilities provided by GeoGebra software. The aim of this research is to apply the concept of integral calculus in calculating the volume of a rotating object in the form of a ball. The method used is a qualitative descriptive method that uses literature studies to search for formulas and to construct spherical shapes to determine their volume. The experimental method is used to find manual calculation results on real objects. The research results show that the integral concept used in calculating the volume of a ball using software assistance in the form of the GeoGebra application can produce quite accurate results. Keywords: Calculus, Integral, GeoGebra
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Corresponding Author: Irvan, Department of Mathematics Education, Universitas Muhammadiyah Sumatera Utara, Jalan Kapten Muktar Basri No 3 Medan 20238, Indonesia. irvan@umsu.ac.id
+1. INTRODUCTION
+Integral Calculus is a part of mathematics learning that uses an analytical approach. Integral applications in everyday life are varied and can cover various fields at once. Solving problems encountered in everyday life is often connected to the concept of mathematical problem solving in finding a way out of a problem (Lusiana, Lusiana, and Nila Kesumawati, 2023). Calculus is also a mathematical topic where the algorithmic manipulation of symbols is easier than understanding the basics. Therefore, in the search for a solution to the problem, a medium is needed that can help explain the main concepts and not just explain the algorithmic manipulation of the symbols (Shodikin, A., 2015). Technological developments require all levels of society to interact directly with technology which causes almost all parts of learning problem solving to be adapted to lifestyles, including solving mathematical problems (Caligaris et al, 2015). Technology used appropriately can have an impact on exploration space to enrich mathematical knowledge. Mathematical exploration space can also be included in digital literacy in mathematical applications in the presentation of calculations and visualization of figural presentations quickly and precisely. One application software also facilitates the development of mathematics, one of which is Geogebra (Meldi, et al. 2022; Nasution et al. 2020). Apart from that, there is also several software that can facilitate and make it easier to recommend as a tool to help solve mathematics, including, Maple Calculator, Desmos, GeoGebra, Mathematical, Matlab, Texas Instruments Graphing Calculator and Helwett Packard Graphing (Meldi, et al. 2022; Dhani, Siti Rahma, et al. 2022; Subagio et al, 2021; Irvan, 2023). GeoGebra is a computer program (software) used for mathematics, such as studying geometry and algebra. Even in its development, GeoGebra can also be used to search for other mathematical problems such as vectors and integrals. This makes it easier for all groups who have difficulty drawing function graphs as limits in determining the volume of rotating objects. GeoGebra software can be a key solution in solving integral calculus mathematical problems (Hohenwarter, Markus, et al. 2008; Mushlihuddin, R., et al. 2020). Developing technology is utilized in various aspects, including in solving mathematical problems. In this case, the software in the form of the Geogebra application is one of the software which is expected to
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 58~63 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.18086
+59
+work significantly in solving integral calculus application problems. Likewise, solving the problem of calculating the volume of a rotating object in the form of a ball will be solved using an integral solution. In line with research by [9] which discusses solving the volume of a rotating object in the form of a tambourine, in this research we will discuss the solution in calculating the volume of a rotating object in the form of a ball using the supporting media GeoGebra software. With this, we will prove the volume of the ball in several ways that can be done in everyday life with several formulas that will also be tried. The ball that will be used as a sample in research is a plastic ball which is usually used as a football in children's games with a diameter of cm
+2. RESEARCH METHOD
+The method used in this project is a qualitative descriptive method that uses literature studies to search for formulas and to construct spherical shapes to determine the volume of the ball (Sugiyono, 2013). Experimental method to find calculation results manually using a spherical geometric formula in the form
+of a formula 4
+3 πr3.
+3. RESULTS AND DISCUSSION
+Basically, the knowledge learned in the teaching and learning process aims to help each individual develop in everyday life. Likewise with integral sub-materials that can be applied to everyday life. A ball is a spatial shape whose shape is often found in everyday life.
+A. Origin of the volume of a sphere
+As we know, the formula for the volume of a ball is :
+V=4
+3 πr3
+Initially, the volume of the ball is derived from the integral formula Center P(0,0) and radius r then x2 + y2 = r2 → y2 = r2 − x2.
+Then the integral formulation is obtained in the form:
+V = 2π ∫ (r2 − x2)dx
+r
+0
+V = 2π(r2x − 1
+3 x3) |r
+0
+V = 2π(r2r − 1
+3 r3) − (0 − 0))
+V = 2π 2
+3 r3 → V = 4
+3 πr3 
+B. Calculating the Volume of a Ball with Geogebra
+In finding the volume of a ball using the GeoGebra software, 2 forms of formula are used which will then be proven that the integral formula is a formula that will produce the same results as the spherical shape formula which is often used so far. Furthermore Zulnaidi, Hutkemri, and Effandi Zakaria (2012) explains that stated in their research that the use of GeoGebra software is effective in helping to develop levels of conceptual and procedural knowledge.
+1. The first step that must be taken in this application is to select the slider menu as in the image below.
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 58~63 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.18086
+60
+2. Next, click on any point on the graph and enter the required options as in the image below.
+3. Next, click the "view" menu, then select the "3D Graphics" menu which will appear as in the image below.
+4. Next, select the "sphere: center & radius" menu then click on the point (0,0,0) in the 3D image and name it "r" as in the picture.
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 58~63 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.18086
+61
+5. To calculate the volume of a ball using the integral formula, input the volume formula as shown in the image in the form: 2π ∫ (r2 − x2)dx
+r
+0 which is then input into GeoGebra with the 2*pi Integral formula
+(r2 − x2, 0, r)and then after Enter, the volume of the ball will immediately appear.
+6. To determine the volume of the ball, we can also input the formula in the input menu at the bottom like this 4/3*pi*r^3
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 58~63 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.18086
+62
+Supported by research by Tonra (2021) where the volume of rotating objects of various shapes can be represented in the GeoGebra application. It can be seen that the GeoGebra application can be an effective tool in finding the volume of a ball using either the integral formula or the general formula for the volume of a ball. This supports the statement that using these two different formulas can produce the same results. With this, to measure the volume of a football, you can find it using the volume formula only.
+C. Calculating the Volume of Real Rotating Objects
+Below, a plastic football is taken which will be used as a sample with a ball radius of 10 cm. With this, the volume will be found with the help of the Geogebra application by inputting the integral formula Steps to calculate the volume of a plastic football: 1. The football is cut into the necessary parts so that it can be filled with water to measure its volume. 2. The ball is filled with water and then it will be measured how many liters of water can fill the ball's space as its volume. 3. Then, using the existing formula, it will be proven that the integral can be used to calculate the volume of a ball. If the circumference of the ball is 64 cm, then the ball has a radius of 10.2 cm. then the volume of the ball is 4426.8 ml. In line with research Brahier, Danie (2020) to determine volume is to fill a container with something until it is full and then pour it into a holding container and then fill it again until it is full. The volume of the ball is calculated in real terms using a simpler volume formula, namely the formula 4
+3 πr3. Based on the results of calculating the volume of the ball, it was found that the ball can be filled
+with a water dose of 1500 ml + 1500 ml + 1250 ml + 177 ml = 4427 ml. The results obtained from volume calculations with real objects can only be close to the results obtained from spherical volumes from calculations with GeoGebra. This is due to the lack of tools for calculating liters of water where the concept of volume is in decimal form.
+4. CONCLUSION
+The ball is a form of space that is often used every day. One thing that can be researched scientifically is calculating the volume using various forms of concepts that can be applied. One of the sub-discussions in the application of integral calculus is the concept of calculating the volume of rotating objects, including balls. If we look at the ball formula which is generally used, the calculation results show that the volume of a ball with a circumference of 64 cm and a radius of 10.2 cm is 4426,8 cm3. The same results were obtained when calculating with the help of GeoGebra software and then almost the same results were obtained when calculating real objects. Among the various aspects of calculating spheres, you can use the GeoGebra application with effective results in accordance with the concept of geometric volume. The big advantage that can be obtained from using the GeoGebra application is that all groups can solve various geometric mathematics problems with just one click.
+REFERENCES
+[1] Brahier, Daniel. Teaching secondary and middle school mathematics. Routledge, 2020.
+[2] Caligaris, Marta Graciela, María Elena Schivo, and María Rosa Romiti. "Calculus & GeoGebra, an
+interesting partnership." Procedia-Social and Behavioral Sciences 174 (2015): 1183-1188
+[3] Dhani, Siti Rahma, Marah Doly Nasution, and Irvan Irvan. "Penggunaan desmos dalam pembelajaran
+matematika materi program linier sebagai sarana meningkatkan kemampuan siswa." AKSIOMA: Jurnal
+Matematika dan Pendidikan Matematika 13.2 (2022): 237-247.
+[4] Hohenwarter, Markus, et al. "Teaching and learning calculus with free dynamic mathematics software
+GeoGebra." (2008).
+[5] Irvan, Irvan. "Differences effect of the application the discovery learning and problem based with GeoGebra
+to improve critical thinking ability." (2023): 82.
+[6] Lusiana, Lusiana, and Nila Kesumawati. "Mathematical proving as a way to improve understanding the
+concepts of integral calculus application in digital era." AIP Conference Proceedings. Vol. 2811. No. 1. AIP
+Publishing, 2023.
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 58~63 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.18086
+63
+[7] Meldi, Nadya Febriani, et al. "Implementasi Teknologi Digitasl dalaam Perkuliahan Matakuliah Kalkulus
+Integral dalam Penyelesaian Luas Daerah Antar Kurva." Jurnal Alwatzikhoebillah: Kajian Islam, Pendidikan,
+Ekonomi, Humaniora 8.2 (2022): 156-167.
+[8] Mushlihuddin, R., and S. Panjaitan. "Effectiveness of Geogebra Learning With Scientific Approach To
+Vocational School of Technical Engineering 2 Binjai." Journal of Physics: Conference Series. Vol. 1429. No.
+1. IOP Publishing, 2020.
+[9] Nasution, Atika Erlina, Irvan Irvan, and Ismail Hanif Batubara. "Penerapan Model Problem Based Learning
+dan Etnomatematik Berbantuan Geogebra Untuk Meningkatkan Kemampuan Komunikasi Matematis."
+Journal Mathematics Education Sigma [JMES] 1.1 (2020): 55-64.
+[10] Shodikin, A. "Penggunaan Software Geogebra 3D dalam Beberapa Pemecahan Masalah Matematika
+Kalkulus Integral." Prosiding Seminar Nasional Matematika dan Pembelajarannya. Vol. 5. 2015.
+[11] Subagio, Lilik, Ida Karnasih, and Irvan Irvan. "Meningkatkan Motivasi Belajar Siswa Dengan Menerapkan
+Model Discovery-Learning dan Problem-Based-Learning Berbantuan Geogebra." Jurnal Pendidikan
+Matematika Raflesia 6.2 (2021): 15-26. [12] Sugiyono. Dr "Metode penelitian pendidikan pendekatan kuantitatif, kualitatif dan R&D." (2013).
+[13] Syarifatul, Maf’ulah, et al. "Pembelajaran Matematika dengan Media Software GeoGebra Materi Dimensi
+Tiga." Mosharafa: Jurnal Pendidikan Matematika 10.3 (2021): 449-460.
+[14] Tonra, Wilda Syam. "Pelatihan Penggunaan Geogebra Untuk Mata Kuliah Kalkulus Pada Materi Luas
+Daerah dan Volume Benda Putar." (2021): 127-137.
+[15] Zulnaidi, Hutkemri, and Effandi Zakaria. "The effect of using GeoGebra on conceptual and procedural
+knowledge of high school mathematics students." Asian Social Science 8.11 (2012): 102.

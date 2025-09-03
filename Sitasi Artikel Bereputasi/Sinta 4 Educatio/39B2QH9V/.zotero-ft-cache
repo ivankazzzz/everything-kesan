@@ -1,0 +1,220 @@
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 61 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+Penerapan Artificial Intelligence Dalam Pendidikan Di Era Revolusi Industri 4.0
+Putri Sofiatul Maola*1, Indira Syifa Karai Handak2, Yusuf Tri Herlambang3 putrism@upi.edu*1 1,2,3 Program Studi Pendidikan Guru Sekolah Dasar, Universitas Pendidikan Indonesia Kampus Cibiru, Bandung, Indonesia
+Abstract
+Artificial Intelligence (AI) is a contemporary term stemming from the Fourth Industrial Revolution, representing human-created intelligence. Its implementation spans various sectors, including education, as the evolving digital era necessitates such technology to enhance the educational process. The aim is to explore the application of AIin relation to education. The research methodology employed is a literature review. The integration of AI in the realm of education significantly influences learning, particularly in terms of instructional methods. This greatly facilitates both teachers and students in adapting to the teaching and learning activities. Teachers find ease in administrative tasksand student assessments. In the era of the Fourth Industrial Revolution, students are expected to be technologically literate. AI employs systems that assist and enable activitiesto align with individual abilities and learning styles. However, it's important to note that AI's usage sometimes comes with negative impacts. As a generation in the Fourth IndustrialRevolution, it is crucial for us to utilize AI wisely and positively, considering its potential drawbacks. Keywords: Artificial Intelligence, Industrial Revolution 4.0, Education
+Abstrak
+Artificial Intelligence (AI) merupakan istilah baru dari Revolusi Industri 4.0 sebagai kecerdasan buatan manusia. Penerapan AI tentunya banyak digunakan di beberapasektor, termasuk di bidang pendidikan. Pendidikan yang berkembang ke era digital memerlukan teknologi semacam ini untuk membantu meningkatkan pendidikan. Tujuannya untuk mengetahui penerapan AI dalam kaitannya dengan pendidikan. Sedangkan metode penelitian yang digunakan menggunakan metode studi kepustakaan. Penerapan AI dalam dunia pendidikan sangat berpengaruh khususnya dalam hal pembelajaran. Hal ini tentunya sangat memudahkan guru dan siswa dalam menyesuaikan diri dengan kegiatan belajar mengajar. Manfaat yang diperoleh guru adalah mempermudahdalam hal administrasi dan penilaian siswa. Dengan adanya revolusi industri 4.0, pelajar dituntut untuk mampu melek teknologi. AI tersebut menggunakan sistem yang membantudan memungkinkan dilakukannya kegiatan sesuai dengan kemampuan dan gaya belajarnya.Namun terkadang AI juga mempunyai tantangan dalam penggunaannya, sehingga kita sebagai generasi revolusi industri 4.0 perlu memanfaatkannya secara bijak dan positif dengan memaksimalkan kekuatan yang kita miliki. Kata kunci: Kecerdasan Buatan, Revolusi Industri 4.0, Pendidikan
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 62 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+PENDAHULUAN
+Saat ini di seluruh tatanan dunia telah memasuki suatu era yang mengharuskan penghuni di dalamnya untuk dapat hidup bersama teknologi. Manusia sebagai salah satu penghuni di
+muka bumi yang dibekali akal dan pikiran maka harus dapat menyesuaikan diri dengan perkembangan teknologi yang terus menerus berkembang dengan pesat. Siap tidak siap kehidupan akan terus berjalan, maka manusia tidak boleh tertinggal atau tergerus akan adanya
+teknologi yang semakin lama semakin canggih (Hikmawati et al., 2023). Era dimana hampir seluruh aspek kehidupan manusia harus berdampingan dengan teknologi, manusia juga dituntut
+untuk lebih maju dengan memanfaatkan teknologi seperti berbentuk fisik yakni mesin-mesin canggih maupun non fisik seperti digitalisasi, era ini disebut revolusi industri 4.0 (Mulianingsih et al., 2020). Pada era revolusi industri 4.0 ini bukan hanya berkembang dalam bidang
+teknologi, namun ditandai pula dengan semakin berkembang dan majunya bidang ilmu pengetahuan (Astuti et al., 2019). Dengan pesatnya teknologi dan ilmu pengetahuan, dari situ munculah inovasi-inovasi
+baru dari berbagai aspek kehidupan yang dapat memudahkan manusia untuk mengerjakan tugas sehari-harinya (Zahara et al., 2023). Pekerjaan manusia menjadi semakin cepat dan ringan, karena adanya kemudahan dalam menjalankannya. Alhasil manusia lebih cenderung menyukai
+segala sesuatu yang instan, manusia dapat menggunakan perangkat digitalnya seharian penuh sehingga komunikasi antar sesama manusia lain menjadi berkurang. Dari sini dapat terlihat bahwa revolusi industri 4.0 dapat menggantikan peran manusia dengan teknologi-teknologi
+yang cerdas nan canggih, tak terpungkiri nilai-nilai manusia pun menjadi berkurang (Hermansyah, 2021). Manusia terus membuat terobosan baru dengan memanfaatkan ilmu pengetahuan dan teknologi yang ada, salah satunya pada aspek pendidikan (Tjahyanti et al.,
+2022). Guru sebagai pendidik harus dapat menciptakan suasana pembelajaran yang menyenangkan bagi siswa dengan memanfaatkan teknologi di dalam proses belajar mengajar (Burrit & Christ, 2016). Guru harus siap berubah dan mampu beradaptasi dengan era revolusi
+industri 4.0 ini, namun dalam pembentukkan karakter yang baik bagi siswa maupun penanaman sebagai contoh teladan tetap peran guru tidak akan tergantikan (Monita & Faizah, 2020). Akan tetapi, dalam proses pembelajaran guru dapat memanfaatkan ilmu pengetahuan dan teknologi
+untuk membantu dan meringankan tugas guru. Dalam hal ini, terdapat inovasi pada revolusi industri 4.0 yang dapat menawarkan solusi untuk membantu dalam bidang pendidikan, yakni teknologi kecerdasan buatan atau biasa
+disebut Artficial Intelligence (Rusmiyanto et al., 2023). Artificial Intelligence ini merupakan pemograman ilmu komputer, pembelajaran mesin, perangkat lunak (software) maupun perangkat keras (hardware) yang dapat bekerja dan berpikir seperti layaknya manusia
+(Serdianus & Saputra, 2023). Pada Artificial Intelligence membangun kecerdasan tersebut dengan terinspirasi dari rekayasa terbalik pola neutron yang bekerja di otak manusia melalui perangkat lunak dan keras yang mendukung (Batubara, 2020). Arificial Intelligence atau kerap
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 63 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+disebut AI dapat membantu guru untuk mendapatkan informasi pada suatu data dengan hasil yang cepat dan akurat (Mambu et al., 2023). Selain itu, pada pendidikan AI dapat meningkatkan proses pengajaran agar lebih efektif
+dan efisien, dengan algoritma yang ada pada AI guru dapat menganalisis kebutuhan yang sesuai dengan siswa karena tentu setiap siswa memiliki gaya belajar yang berbeda-beda (Khairi, dkk, 2022). Guru dapat mengenali karakteristik siswa yang ada di kelas dominan menggunakan gaya
+belajar seperti apa, sehingga dapat terciptanya suasana kelas yang sesuai kebutuhan siswa serta pembelajaran yang dipersonalisasi dengan teknologi (Nurmasari et al., 2020). Dengan begitu,
+memungkinkan pembelajaran yang menarik dan interaktif kapan saja dan dimana saja karena seperti yang kita tahu bahwasannya dengan teknologi dapat memberikan akses yang mudah tanpa melihat ruang dan waktu (Kennedy, 2023).
+AI hadir untuk membantu dan memfasilitasi dalam pembelajaran sebagai alternatif yang dapat mempersiapkan generasi muda untuk menghadapi dunia yang semakin lama semakin di dominasi oleh teknologi. Namun tentu perlu menyeimbangkan dan menyesuaikan pemanfaatan
+teknologi dengan sebaik-baiknya. AI yang hadir ini harus sejalan dengan tujuan awal terbentuknya yakni meringankan beban atau pekerjaan manusia, bukan untuk menggeser peran guru dalam pendidikan yang telah ada dan berjalan semestinya. Dengan demikian, penulis
+tertarik untuk melakukan penelitian mengenai peran Artificial Intelligence dalam pendidikan
+METODE PENELITIAN
+Metode yang digunakan dalam penyusunan artikel ini menggunakan alur atudi pustaka (library research) yakni metode dengan dalam mengumpulkan data dengan cara mempelajari dan memahami teori dari berbagai literatur yang berhebungan dengan penelitian yang sedang
+dilakukan. Ada Empat tahapan studi pustaka dalam penelitian yaitu menyiapkan perlengkapan alat yang diperlukan, menyiapkan bibliografi kerja, mengorganisasikan waktu dan membaca atau mencatat bahan penelitian (Agustian & Salsabila, 2021). Adapun dalam pengumpulan
+datanya juga termasuk dengan mencari sumber dan merekontruksi dari berbagai sumber yang ditemukan saat studi pustaka, yakni seperti halnya dengan buku, artikel lain, dan riset yang sudah pernah dilakukan sebagai bahan penelitian.
+Kajian bahan pustaka yang didapat akan dianalisis secara kritis dan juga mendalam agar dapat menyaring sesuai dengan proposisi dan gagasan. Hal ini disebut juga dengan penelitian menggunakan metode kualitatif deskriptif. Metode penelitian kualitatif deksriptif merupakan
+upaya dalam mendapatkan pemahaman mengenai proses berfikir induktif. Dalam penelitian ini, peneliti terlibat dalam situasi dan setting fenomenanya yang sedang diteliti (Adlini et al., 2022). Adapun hal yang diteliti disini adalah mengenai Peranan Artificial Intelegence dalam
+Pendidikan di Era Revolusi Industri 4.0.
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 64 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+HASIL DAN PEMBAHASAN
+Eksistensi AI dalam Pendidikan
+Jika mengulik kembali pada zaman dahulu, bahwasannya pendidikan masih dilakukan
+secara manual. Kemudian terus menerus berkembang dari masa ke masa hingga pada era revolusi industri 4.0. Pada era ini, manusia harus bisa hidup berdampingan dengan teknologi pada hampir keseluruh aspek kehidupan. Teknologi tersebut membawa banyak perubahan ada
+tatanan hidup manusia yang menjadi lebih instan dan efisien. Salah satu perkembangan teknologi yakni adanya AI (Artificial Intelligence) atau biasa dikenal kecerdasan buatan. AI
+sangat luas dan banyak digunakan untuk tujuan memudahkan atau meringankan pekerjaan manusia (Farwati et al., 2023). Pada era seperti sekarang, dimana teknologi berkembang dengan pesatnya, kecerdasan buatan (AI) ini menjadi sebuah inovasi yang efektif dan relevan untuk
+diterapkan dalam menghadapi tantangan yang dihadapi oleh manusia. Teknologi kecerdasan buatan ini mampu membantu tugas atau pekerjaan manusia dengan mesimulasikan aktivitas yang biasanya membutuhkan tenaga dan kecerdasan pada manusia melalui suatu sistem
+komputer, bahkan AI ini memiliki potensi dapat menggantikan peran manusia dalam mengerjakan tugas-tugas tertentu. Perkembangan teknologi melalui kecerdasan buatan (AI) ini banyak diterapkan dan
+dimanfaatkan karena memiliki keunggulan dapat melakukan pekerjaan selayaknya manusia. Dikarenakan kehadiran AI diperkirakan akan membuat sebuah mesin dari teknologi komputer yang lebih cerdas dan lebih unggul dari sebelumnya berbentuk software atau robot yang
+nantinya dapat membantu pekerjaan manusia sehari-hari. Pada AI ini diharapkan bukannya hanya membantu pekerjaan sehari-hari, namun pekerjaan yang lebih kompleks pula, dengan pengembangan kalkulator pintar yang dapat menghitung cepat, sehingga AI ini dapat melihat
+segala sesuatu secara objekif (adil dan tidak memihak pada siapapun) tanpa memperhitungkan faktor darimanapun alhasil penilaian yang telah dilakukan benar adanya. AI bekerja sesuai dengan perintah yang telah diprogramkan sebelumnya, maka tidak dapat diubah dan tidak
+mampu bekerja lebih dari program yang dibuat. Dalam hal ini, seperti halnya di dunia pendidikan masih ada beberapa kendala dalam kurangnya jumlah pendidik sedangkan jumlah peserta didik yang banyak, sehingga pendidik
+mengalami kesulitan dalam mendata jumlah siswa, menganalisis nilai, data atau sebagainya yang telah diperoleh siswa (Sidiq & Lukitoyo, 2019). Disinilah kecerdasan buatan (AI) hadir dengan segala kemampuan yang dapat dilakukan dapat membantu pendidik agar dapat
+mengkooordinasir dengan lebih cepat, tepat dan akurat. Walaupun hingga kapanpun AI tidak akan dapat menggantikan peran guru sebagai pendidik, namun keberadaan AI dapat membantu pendidik seperti halnya dalam meningkatkan kinerja belajar dengan pemberian informasi yang
+tepat dengan waktu yang terjadwal, pemantauan kehadiran siswa, memantau karakteristik siswa sehingga pendidik dapat menentukan bahan materi yang sesuai dengan pengembangan maupun kebutuhan siswa (Afrita, 2023).
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 65 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+Implementasi AI serta Dampaknya dalam Pendidikan
+AI ini dimaksudkan sebagai kecerdasa buatan yang dibuat sebagai sistem dalam mendukung proses berjalannya pendidikan dan pembelajaran juga (Holmes et al., 2019). Sebab,
+dalam pendidikan pun sistem AI ini dapat membantu siswa untuk mencari kemampuan, dan model serta gaya belajar yang dimiliki siswa. Konten pembelajaran digital yang di personalisasi juga dapat muncul melalui AI. Sebab, melalui AI ini membuat proses pembelajaran tidak akan
+berpusat pada guru melainkan berpusat pada siswa. Sehingga, siswa dituntut untuk bisa dalam menggunakannya ketika pembelajaran berlangsung.
+Menurut (Mutaqin et al., 2023) ada beberapa implementasi AI dalam penerapannya di bidang pendidikan menurut yakni: 1) Mentor Virtual. Mentor Virtual ini yang berarti AI dapat memberikan feedback
+berdasarkan kegiatan belajar yang dilakukan serta dapat menilai latihan soal yang dikerjakan oleh siswa-siswi, hingga dapat memberikan komentar dan rekomendasi materi seperti halnya dilakukan oleh seorang guru maupun mentor itu. Salah satu yng
+menjadi contoh dalam implementasi yang sudah dilakukan di negara lain yaitu Eropa dan Amerika adalah alata tersebut digunakan oleh dosen dan profesor dalam memudahkan pekerjaan rumahnya, baik dalam bentuk kuis maupun tes yang dapt
+membantunya dalam proses penilaian. Karena, dari alat tersebutlah kita dapat mengeksplorasi kembali sehingga akan menimbulkan pemahaman baru akan suatu pengetahuan.
+2) Asisten Suara (Voice Assistant). Asisten sura inu merupakan bentuk dari teknologi AI yang banyak digunakan oleh para pengguna, yakni google assistant, siri (berada di ios), Cortana (ada psa Microsoft), dan masih banyak lagi tentunya. Dalam halny asisten
+suara ini dapt membantu untuk mencari benda ataupun kata, materi, maupun referensi hanya dengan satu kali suara saja dan tidak lupa unuk menyebutkan kata kunci tersebut 3) Konten Cerdas (Smart content). Konten cerdas disini juga merupakan salah satu bentuk
+dari AI dalam menemukan konten materi maupun buku digital pilihan yang sudah di program oleh pemerintah. Sehingga, pemakaian dalam pencarian teesebut tentunya akan lebih mudah dan cepat. Contoh nyata yang sering dipakai adalah aplikasi Kippin,
+yang berfungsi untuk mencari hingga mendownload buku digital terutama buku tema SD. 4) Penerjemah presentasi (Presentation Translator). Penerjemah ini mempunyai
+kegunaan untuk mempresentasikan teks dari bahasa yang berbeda dalam bahasa yang diinginkan. Sehingga, akan mempermudah seseorang dalam menerjemahkan bahasa. Hal ini juga disebut dengan AI Speech Recognition yang dapt memahami artike
+maupun jurnal, bahkan buku dari bahasa lain pda bahasa yang diinginkan. 5) Kursus Global (Global Courses). Kursus global ini salah satu contoh dari AI yang menggunakan platform kursus, sehingga siswa pun bisa mengikuti kursus tersebut dari
+seluruh dunia. Dalam Kursus global ini dapat merekomendasikan minat dan bakat yang
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 66 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+sesuai dengan yang diinginkan sesuai dengan kata kunci yang ditelaah. Kursus global ini juga mempunyai ruang belajar secara gratis dan dapat diakses dengan mudah. 6) Penilaian Otomatis (Automatic Assesment). Penilaian otomatis ini banyak digunakan
+oleh pendidik khususnya guru dalam memeriksa soal secara online. Adapun fitur yabg terdapat pada bentuk AI model ini adalah guru tidak perlu bersusah payah untuk membuat soal maupun mengoreksi soal, karena dapat terstruktur secara otomatis.
+Disini guru hanya perlu memilih jenis mata pelajaran, jenjang, jumlah soal yang diinginkan, adapun melihat pada tingkat kesulitan yang akan siswa siswi hadapi,
+tentunya soal tersebut juga dapat diakses secara daring (online). 7) Pembelajaran yang dipersonalisasi (Personalized Learning). Pembelajaran yang dipersonalisasi ini hampir sama dengan contoh teknologi AI lainnya, disini pun sistem
+dari AI dapat mengumpilkan data berdasarkan aktivits belajar yang sudah diakses atau dilakukan, selain itu juga dapat memberikan sebuah pilihan maupun solusi alternatif yang sesuai dengan kebutuhan.
+8) Kelas guru ganda (Dual Teacher). Kelas guru ganda disini sebagau penggunaan guru kelas umum dan guru yng berbasis AI. Namun, kelas guru ganda ini tidak menghilangkan identitas dari guru kelas umum (Deloitte, 2019).
+9) Rumah Belajar. Rumah belajar bersifat website yang didalamnya berisikan konten materi yang dapat diakses sejak PAUD hingga SMK/SMA. Fitur yang terdapat dalam rumah belajar inj banyak, yakni buku teks digital, soal-soal latihan, lab virtual, hingga
+peta digital juga sudah ada. Penerapan tersebut tentunya mempunyai dampak positif dan negatif bagi kehidupan manusia. Adapun dampak positif adanya implementasi AI dalam pendidikan yakni:
+1) Memudahkan guru dan siswa dalam membekali pembelajaran. 2) Mengefektifkan tugas guru. 3) Fleksibe, dapat digunakan kapan saja dan dimana saja.
+4) Mengefesiensikan waktu dalam bekerja. 5) Dapat menyimpan file yang tidak terbatas Ada juga beberapa dampak negatif akibat implementasi AI dalam pendidikan yakni:
+1) Guru dan siswa akan semakin malas dengan adanya teknologi canggih tersebut, sehingga akan mengandalkan AI menjadi solusinya. 2) Mengurangi intensitas pekerjaan pendidik dalam bidang administrasi contohnya TU.
+3) Seringkali, AI tersebut tidak dapat memahami apa tujuan dan informasi yang dibuat karena sistem ini bekerja sesuai dengan apa yang telah diprogramkan dan yang telah ada.
+4) AI tersebut suatu saat akan mengalami kerusakan.
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 67 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+Manfaat AI di Bidang Pendidikan
+Pengembangan dari pendidikan ini sendiri akan berkembang secara terus menerut seiring dengan berjalannya waktu, dan perkembangan pendidikan ini tentulah berkaitan dengan
+perkembangan teknologi itu sendiri. Sehingga, melalui teknologi AI ini menjadi terobosan baru sebagai sarana yang dapat membantu pendidik maupun pengajar dalam kegiatan belajar mengajar. Pembelajaran pun tentunya akan lebih mudah lagi untuk dilaksanakan, sehingga akan
+meninggalkan metode lama yang telah usang dan tidak perlu digunakan pada masa kini. Apalagi sekarang, perkembangan Ilmu Pengetahuan dan Teknologi ini mengharuskan semua pendidik
+(guru) untuk mengembangkan bentukbentuk cara mengajar yang dapat menampilkan beberapa keterampilan seperti halny dengan 4C yakni berpikir secara kritis komunikasi, kolaborasi dan juga kreatif.
+Selain itu, AI ini bekerja dengan cara menggabungkan sejumlah data, dengan mengikuti pengolahan data yng berulang dan memakai algoritma-algoritma yabg cerdas. Sehingga akan secara otomatis ada di dalam data dan data yang dihasilkan akan secara otomatis ada serta
+akurat. Cakupan materi, serta teknologi yang ada dalam AI ini sangatlah kompleks dan banyak. Dari mulai database, mesin, jaringan neural, hingga pemrosesan bahasa naluriah yang bersifat ilmiah.
+Adapun beberapa manfaat AI dalam bidang pendidikan ini yakni sebagai berikut: 1) AI dapat dimanfaatkan dalam menciptakan suasana belajar yang efisien dan efektif terhadap waktu.
+2) Melalui AI, tentunya dapat menjadi kesempatan untuk meningkatkan kualitas dari segi pendidikan dan pembelajaran. 3) AI secara instan dapar menganalis data siswa sehingga akan memudahkan guru.
+Contohnya AI dapat mendeteksi kesalahan yang di buat oleh siswa, mendeteksi kemampuan siswa yang sesuai dengan kebutuhannya. Selain dari itu, AI dapat menilai pilihan ganda dan pertanyaan dengan jawaban yang singkat.
+4) AI memberi umpan balik siswa secara masing-masing personal dengan waktu yang bersamaan sehingga guru tidak akan repot lagi. AI pun disini dapat menjadi media dalam membantu guru dalam kegiatan belajar mengajar.
+5) AI dapat mengidentifikasi konsep yang belum siswa pahami. 6) Membuat guru dapat mengalami dan menciptakan metode pembelajaran yang menarik, seperti halnya dengan menggunakan aplikasi Youtube sebagai media Audiovisual,
+sehingga pembelajaran tentunya akan lebih menarik karena tidak hanya secara gambar atau video yang ditayangkan saja, namun juga ada sura yng membuat suasana pembelajaran akan lebih hidup. Selain itu juga film, maupun PPT interaktif, hingga
+game dalam bersistem AI juga sudah banyak digunakan dalam membantu pembelajaran. Sehingga, dapat mempersiapkan siswa dalam era digital kedepan.
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 68 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+Tantangan dan Peluang AI dalam Pendidikan
+Kecerdasan buatan (AI) memiliki banyak manfaat dalam pendidikan, namun tentunya terdapat tantangan dalam AI ini pada bidang pendidikan, tantangan tersebut menurut (Nishant
+et al., 2020) yakni sebagai berikut: 1) Adanya ketergantungan pada pembelajaran mesin Teknologi yang terus berkembang dengan pesat, kecerdasan buatan yang dibuat
+dapat membantu pekerjaan manusia menjadi lebih praktis, sehingga manusia dapat terlena terhadap kemudahan tersebut. Hal tersebut menyebabkan manusia akan menjadi
+ketergantungan dengan mesin. Segala kelebihan dan manfaat pada AI seperti keakurat dan keefektifan dalam menilai tugas atau pekerjaan siswa, pemilihan bahan materi yang sesuai karakteristik dan kebutuhan siswa di kelas dan lain sebagainya, menjadikan AI
+dapat dengan mudah diterima di lingkungan sekitar. Meskipun AI tidak akan dapat berperan untuk menggantikan peran guru, namun perlu ditanamkan dalam benak setiap individu baik itu kalangan tua maupun muda untuk menanamkan pemikiran “teknologi
+untuk membantu bukan untuk menggantikan peran guru yang sejatinya bukan hanya sebagai pengajar di kelas yang memberikan materi, lebih dari itu guru dapat menanamkan dalam pembentukan karakter-karakter siswa yang berbudi pekerti luhur
+dan siap akan segala tantangan kehidupan yang lebih menantang”. 2) Terancamnya keamanan siber Untuk mengetahui informasi-informasi dari pihak yang dinalisis, akan ada data
+data pribadi yang muncul. Meskipun dengan yang tersembunyi sehingga dapat meminimalkan risiko keamanan siber, pendekatan tersebut tidak efisien dan bisa dibilang kurang efektif, karena harus diintegrasikan dengan hati-hati untuk mencegah
+mendapatkan akses ke data yang penting. Menurut penelitian yang dilakukan (Dwork et al., 2006) juga bahwasannya terdapat tantangan atau ancaman terhadap privasi dari penggunaan AI, hal ini dikarenakan adanya algoritma AI yang canggih dan kompleks
+sehingga dapat mengungkapkan informasi-informasi terkait data pribadi bahkan tanpa persetujuan orang yang bersangkutan secara detail, seperti informasi keuangan, kesehatan, data identitas, dan lain sebagainya yang merupakan data sensitif.
+Walaupun memiliki tantangan atau ancaman, akan tetapi tentu kecerdasan buatan (AI) ini dapat memberikan peluang-peluang dalam pendidikan yakni sebagai berikut: 1) Dalam proses pembelajaran, peran AI ini dapat memberikan peluang sebagai pemberian
+umpan balik yang efektif, sehingga dapat membantu sejauh mana siswa memahami materi, lalu dapat memberikan sebuah evaluasi terhadap kesalahan atau kekurangan apa yang perlu diperbaiki, alhasil pemberian bahan ajar selanjutnya akan lebih efektif dan
+sesuai karakterisrik siswa. Hal ini dapat berpengaruh dalam peningkatan hasil belajar siswa di kelas. 2) AI memiliki sistem algoritma pembelajaran melalui pembelajaran mesin, sehingga
+tugas maupun Latihan yang dikerjakan siswa dapat diproses secara real time, kemudian
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 69 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+dapat mengetahui letak kesalahannya dimana, tingkat pemahaman siswa terhadap materi yang diberikan sudah sejauh mana, serta pemberian umpan balik yang cepat dan akurat. Ketika ada siswa yang mendapatkan banyak kesalahan terhadap tugas yang telah
+diberikan, maka dapat dilakukan analisis untuk tugas tambahan seperti apa yang sesuai dengan kebutuhan siswa tersebut. 3) Meskipun dalam kondisi kelas yang padat, AI tetap dapat memberikan bantuan untuk
+memudahkan guru secara efektif dan efisien. Guru mungkin akan kesulitan dalam memahami keseluruhan siswa yang ada di kelas. Namun, melalui AI dapat mengetahui,
+menganalisis dan memberikan penilaian yang objektif pada setiap siswa dengan tetap berpedoman terhadap objektivitas. 4) Dengan kemampuan-kemampuan yang dimiliki, kecerdasan buatan (AI) memiliki
+peluang, selain pemberian umpan balik yang sesuai. Namun, umpan balik tersebut dapat lebih bervariasi yakni dapat menyediakan penggabungan penjelas secara visual, audio maupun interaktif. Dengan demikian, keberagaman siswa yang pasti banyak dan dengan
+gaya belajar yang berbeda-beda, dapat diketahui dan dilakukan perbaikan proses belajar mengajar kedepannya. 5) Dalam kegiatan belajar mengajar yang dilakukan di sekolah, AI memiliki peluang
+dalam meningkatkan efektivitas pegajaran secara signifikan. Melalui pemahaman karakteristik siswa, analisis data-data penilaian siswa dan lain sebagainya. Maka dari itu dapat mengoptimalkan kegiatan pengajaran yang akan dilaksanakan melalui strategi
+strategi pembelajaran yang dapat dirancang sesuai kebutuhan siswa dan memberikan solusi penyediaan instrumen pembelajaran berupa bahan ajar, media pembelajaran ataupun tugas-tugas yang relevan dengan kondisi siswa. Sehingga melalui AI dapat
+membantu guru dalam memaksimalkan proses pengajaran agar dapat mencapai hasil pembelajaran dari siswa yang lebih baik lagi.
+Kompetensi dalam menghadapi Tantangan tersebut
+Kompetensi yang harus dimiliki oleh seorang guru dalam menghadapi tantangan tersebut seperti hal nya yang telah dijelaskan adalah guru perlu mengusai akan kemampuan
+yang ada pada dirinya sendiri dengan memfasilitasi AI dalam pembelajaran sebagai salah satu cara untuk membuat kelas menjadi lebih menarik, efektif dan efisien. Adapun kompetensi yang dimiliki oleh guru seperti:
+1) Mampu merekam dan mengedit video pembelajaran. 2) Membuat konten video pembelajaran menarik. 3) Mampu membuat konten lain pada aplikasi yang telah tersedia pada zaman sekarang
+seperti halnya dengan capcut, canva, dan lain-lain. 4) Memanfaatkan kekuatan media sosial yang ada seperti halnya whatsapp, facebook, hingga instagram.
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 70 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+5) Penggunaan menulis secara daring sebagai salah satu bentuk untuk meningkatkan positifitas dalam penggunaan AI. 6) Memanage kelas dengan menggunakan teknologi canggih yakni abcteach dan lain-lain.
+7) Membuat presentasi yang menarik sehingga siswa pun tidak akan merasa bosan akan media pembelajaran yang guru sediakan. 8) Guru perlu membuat portofolio sebagai identitas diri dan dapat digunakan pada
+weebly.com, dan lainnya. 9) Guru juga dapat memaksimalkan penggunaan AI dalam menciptakan Quiz online yang
+dapat diakses oleh seluruh siswa. 10) Kompentensi yang harus dimiliki guru pula yakni mampu mempublikasikan artikel dan mendeteksi adanya plagiat.
+11) Serta tak lupa juga, guru disini juga mampu mengelola kelas jarak jauh sehingga pembelajaran akan terjadi di mana saja dan kapan saja. Seperti halnya dengan aplikasi zoom, dan lain hal sebagainya.
+Adapun, kompetensi yang telah guru miliki seharusnya siswa pun juga memiliki kompetensi dalam menghadapi tantangan tersebut. Adapun beberapa kompetensi yang harus dimiliki siswa agar sejalan yakni:
+1) Siswa dapat berpikir secara kritis, kreatif dan juga inovatif. 2) Siswa pun harus memiliki kepribadian yang baik, serta memiliki pemahaman dalam membaca menulis dan berhitung.
+3) Siswa pun memiliki kemampuan dalam berbudaya, dan ber-kewarganegaraan, tak lupa disesuaikan sesuai abad 21 mengenai digitalisasi yang merembak saat ini.
+SIMPULAN
+Peranan Artificial Intelligence (AI) yang diterapkan di dunia pendidikan, memiliki manfaat dan peluang yang besar dalam pencapaian hasil pembelajaran siswa. Hal tersebut
+didasarkan bahwa AI memiliki perhitungan algoritma yang cepat, tepat dan akurat. AI dapat membantu guru dalam menganalisis penilaian siswa, memantau kehadiran siswa maupun proses belajar mengajar sehingga nantinya dapat dilakukan evaluasi jika masih terdapat
+kesalahan-kesalahan, untuk pemberian pengajaran yang lebih baik lagi dengan bahan ajar yang sesuai kebutuhan siswa sehingga data yang diberikan sesuai dengan kondisi sebenarnya (objektif tanpa memandang unsur subjektif). Namun, AI harus dimanfaatkan dengan sebaik
+baiknya dan jangan disalahgunakan agar tidak timbulnya tantangan atau ancaman yang dapat terjadi.
+DAFTAR PUSTAKA
+Adlini, M. N., Dinda, A. H., Yulinda, S., Chotimah, O., & Merliyana, S. J. (2022). Metode Penelitian Kualitatif Studi Pustaka. Edumaspul: Jurnal Pendidikan, 6(1).
+https://doi.org/10.33487/edumaspul.v6i1.3394
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 71 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+Afrita, J. (2023). Peran Artificial Intelligence dalam Meningkatkan Efisiensi dan Efektifitas Sistem Pendidikan. COMSERVA : Jurnal Penelitian Dan Pengabdian Masyarakat, 2(12). https://doi.org/10.59141/comserva.v2i12.731
+Agustian, N., & Salsabila, U. H. (2021). Peran Teknologi Pendidikan dalam Pembelajaran. ISLAMIKA, 3(1). https://doi.org/10.36088/islamika.v3i1.1047 Astuti, Waluya, S. B., & Asikin, M. (2019). Strategi Pembelajan Dalam Menghadapi Tantangan
+Era Revolusi 4.0. Seminar Nasional Pascasarjana 2019, 2(1). Batubara, M. H. (2020). Kampus Merdeka: Menilik Kesiapan Teknologi dalam Sistem Kampus
+in Cendana, & Fitriasari, Penerapan Teknologi Artificial Intellegence dalam Proses Belajar Mengajar di Era Industri 4.0 dan sociaty 5.0. Banda Aceh: Syiah Kuala University Press.
+Deloitte. (2019) . Global Development Of AL Based Education. China
+Dwork, C., McSherry, F., Nissim, K., & Smith, A. (2006). Calibrating noise to sensitivity in private data analysis. Lecture Notes in Computer Science (Including Subseries Lecture
+Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 3876 LNCS. https://doi.org/10.1007/11681878_14 Farwati, M., Salsabila, I. T., Navira, K. R., & Sutabri, T. (2023). Analisa Pengaruh Teknologi
+Artificial Intelligence (Ai) Dalam Kehidupan Sehari-Hari. JURSIMA: Jurnal Sistem Informasi & Manajemen, 11(1).
+Hermansyah. (2021). Manajemen Lembaga Pendidikan Sekolah Berbasis Digitalisasi Di Era
+Covid 19. Fitrah : Jurnal Studi Pendidikan, 12(1).
+Hikmawati, N., Sufiyanto, M. I., & Jamilah. (2023). Konsep dan Implementasi Kecerdasan Buatan (Artificial Intelligence) dalam Manajemen Kurikulum SD/MI. ABUYA: Jurnal
+Pendidikan Dasar, 1.
+Holmes W., Bialik M., & Fadel, C. (2019). Artificial Intellegence in Education.Boston: Center For Curriculum Redesign.
+Kennedy, P. S. J. (2023). Digitalisasi Pendidikan : Artificial Iintelligence Di Pendidikan Tinggi. Prosiding Nasional 2023.
+Mambu, J. G. Z., Pitra, D. H., Rizki, A., Ilmi, M., Nugroho, W., Leuwol, N. V, Muh, A., &
+Saputra, A. (2023). Pemanfaatan Teknologi Artificial Intelligence (AI) Dalam Menghadapi Tantangan Mengajar Guru di Era Digital. Journal on Education, 06(01). Monita, E., & Faizah, F. K. (2020). Peran Guru dalam Pendidikan pada Era 4.0. JAMPI: Jurnal
+Asosiasi Manajemen ....
+Mulianingsih, F., Anwar, K., Shintasiwi, F. A., & Rahma, A. J. (2020). Artificial Intellegence dengan Pembentukan Nilai dan Karakter Di Bidang Pendidikan. IJTIMAIYA: Journal of
+Social Science Teaching, 4(2). https://doi.org/10.21043/ji.v4i2.8625 Mutaqin, F. M., Jubaedah, I., Koestianto, H., & Setiabudi, D. I. (2023). Efektif Artificial Intelligence (AI) dalam Belajar dan Mengajar. Jurnal Pendidikan : Seroja, 2(1).
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 19, No 1 Juni 2024, hal. 61-72 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 20 Desember 2023 Educatio: Jurnal Ilmu Kependidikan I 72 Accepted: 26 Mei 2024 Online Published: 7 Juni 2024 DOI: 10.29408/edc.v19i1.24772
+Nishant, R., Kennedy, M., & Corbett, J. (2020). Artificial intelligence for sustainability: Challenges, opportunities, and a research agenda. International Journal of Information Management, 53. https://doi.org/10.1016/j.ijinfomgt.2020.102104
+Nurmasari, I., Supriadi, H., Mawarny, E., Amalya, N. T., & Anjani, S. R. (2020). Manajemen Profesional Guru dalam Kualitas Mendidik sebagai Upaya Peningkatan Mutu Sumber Daya Manusia. Jurnal Lokabmas Kreatif : Loyalitas Kreatifitas Abdi Masyarakat Kreatif,
+1(2). https://doi.org/10.32493/jlkklkk.v1i2.p52-55.6374 Rusmiyanto, R., Huriati, N., Fitriani, N., Tyas, N. K., Rofi’i, A., & Sari, M. N. (2023). The
+Role Of Artificial Intelligence (AI) In Developing English Language Learner’s Communication Skills. Journal on Education, 6(1). https://doi.org/10.31004/joe.v6i1.2990
+Serdianus, S., & Saputra, T. (2023). Peran Artificial Intelligence Chatgpt dalam Perencanaan Pembelajaran di Era Revolusi Industri 4.0. Masokan: Ilmu Sosial Dan Pendidikan, 3(1). https://doi.org/10.34307/misp.v3i1.100
+Tjahyanti, L. P. A. S., & Dkk. (2022). Peran Artificial Intelligence (Ai) untuk Mendukung Pembelajaran di Masa Pandemi Covid-19. Jurnal Komputerdan Teknologi Sains(KOMTEKS), 1(1).
+Zahara, S. L., Azkia, Z. U., & Chusni, M. M. (2023). Implementasi Teknologi Artificial Intelligence (AI) dalam Bidang Pendidikan. Jurnal Penelitian Sains Dan Pendidikan (JPSP), 3(1). https://doi.org/10.23971/jpsp.v3i1.4022

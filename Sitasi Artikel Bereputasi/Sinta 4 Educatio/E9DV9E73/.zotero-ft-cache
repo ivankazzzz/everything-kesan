@@ -1,0 +1,272 @@
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 165 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+Analisis Bibliometrik Media Pembelajaran di Sekolah
+Dasar Menggunakan VOSViewer
+Dahlia Sidabutar1, Sintya Setia Ningrum2, Asep Nuryadin*3
+Email: dahliasidabutar@upi.edu1, sintyasetia18@upi.edu2, asep.nuryadin@upi.edu3 1,2,3Universitas Pendidikan Indonesia
+Abstract
+Instructional media are essential to the elementary school teaching and learning process, accommodating each student's different learning styles and abilities. This study aims to examine the development of instructional media research in elementary schools using a computational bibliometric analysis method through VOSViewer. Publication data from Google Scholar-indexed journals were collected through a search on the Publish or Perish application. A search for keywords in research titles and abstracts resulted in 211 relevant articles published in 2013-2022. The analysis showed that the number of research articles on instructional media in elementary schools increased every year. From 2013 to 2019, research on instructional media in elementary schools focused on developing media in certain grades and subjects. Whereas, between 2019 and 2020, research on instructional media in elementary schools focused on the influence of learning media, including effectiveness, learning outcomes, learning innovations, and their influence on classroom learning by teachers. In 2020-2022, research on this topic focused more on online-based learning media due to the Covid-19 pandemic. Thus, many studies discussed the types of online instructional media in elementary schools, such as Powtoon, Android, videos, images, and interactive instructional media that can be accessed from home.
+Keywords: Bibliometric Analysis, Instructional Media, Elementary School, VOSViewer
+Abstrak
+Media pembelajaran menjadi bagian penting dalam proses belajar mengajar di sekolah dasar yang mengakomodasi berbagai gaya belajar serta kemampuan masing-masing siswa yang berbeda. Tujuan penelitian ini adalah untuk meneliti perkembangan penelitian mengenai media pembelejaran di sekolah dasar dengan pendekatan metode analisis bibliometrik komputasional menggunakan VOSViewer. Data publikasi dari jurnaljurnal terindeks Google Scholar dihimpun melalui pencarian pada aplikasi Publish or Perish. Pencarian katakata kunci pada judul dan abstrak penelitian menghasilkan 211 artikel relevan yang dipublikasikan pada tahun 2013-2022. Hasil analisis menunjukkan bahwa jumlah artikel penelitian tentang media pembelajaran di SD selalu meningkat setiap tahunnya. Dari tahun 2013 sampai 2019, penelitian mengenai media pembelajaran di SD berfokus pada pengembangan media di kelas tertentu dan pada mata pelajaran tertentu. Sementara itu, antara tahun 2019 dan 2020 penelitian mengenai media pembelajaran di SD berfokus pada pengaruh media pembelajaran meliputi efektivitas, hasil belajar, inovasi pembelajaran, dan pengaruhnya terhadap pembelajaran di kelas oleh guru. Pada tahun 2020-2022 penelitian-penelitian terkait topik ini menjadi lebih berfokus pada media pembelajaran berbasis online yang disebabkan oleh adanya pandemi Covid-19. Sehingga, banyak penelitian membahas jenis media pembelajaran online di SD seperti Powtoon, Android, video, gambar, dan media pembelajaran interaktif yang dapat diakses dari rumah.
+Kata kunci: Analisis Bibliometrik, Media Pembelajaran, Sekolah Dasar, VOSViewer
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 166 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+PENDAHULUAN
+Pada era digitalisasi saat ini mengembangkan gaya pembelajaran sangat diperlukan
+untuk membenahi ranah pendidikan di Indonesia. Salah satu orientasi tuntutan pembelajaran abad 21 ini ialah menghasilkan siswa dengan empat kecakapan utama. Kecakapan tersebut meliputi kecakapan berkolaborasi (Collaboration), kreatif dan inovatif (Creative and
+Innovativ), komunikasi (Communication) dan terakhir berfikir kritis (Critical Thinking) (Partono, dkk, 2021).Demi mewujudkan kecakapan tersebut, tenaga pendidik saat ini bukan hanya melakukan pengajaran dengan aturan kurikulum saja namun perlu berinovasi dalam
+pembelajaran. Gaya hidup baru masyarakat saat mengalami pandemi Covid-19 mendorong terus perkembangan pendidikan berbasis teknologi digital. Berbagai media pendukung
+pembelajaran digunakan saat masa maraknya Covid-19. Kekuatan teknologi dengan kecanggihannya dari waktu ke waktu tidak dapat dielakkan lagi. Dewasa ini, banyak sekali aplikasi belajar yang dipakai karena dianggap sebagai media yang cocok untuk
+mempermudah kegiatan belajar mengajar yang diharuskan untuk dilakukan secara jarak sebagai akibat dari adanya Covid-19, mulai dari media video conference seperti Zoom Meeting dan Google Meeting. Selain itu, media digital seperti Telegram, Whatsapp, dan
+Google Classroom juga digunakan sebagai sarana untuk memberikan materi pelajaran dan tugas-tugas sederhana kepada siswa. Bahkan untuk memberikan pengalaman baru, Quiziz
+dapat digunakan untuk meningkatkan motivasi dan semangat belajar sehingga saat masa pelik pun dunia belajar mengajar tetap hidup bahkan membawa inovasi untuk kedepannya. Proses pembelajaran dulu maupun saat ini tentunya tidak terlepas dengan salah satu
+pendukung pembelajaran yakni media pembelajaran. Bagaimanapun bentuk gaya belajarnya, dimanapun tempat seseorang belajar, serta apapun situasi maupun kondisi belajar, media pembelajaran dapat digunakan dengan variasi bentuknya guna memberikan kebermaknaan
+bagi siswa dan mengefektifkan proses pembelajaran tersebut (Wahyuningtyas & Sulasmono, 2020). Pandangan tentang media pembelajaran dikatakan oleh Association Of Education
+Technology (Siregar, 2022) memberikan pendapat bahwa media itu sarana menyampaikan pesan maupun informasi aktual serta memiliki tujuan instruksional dengan segala bentuk/rupa media. Sementara itu, media pembelajaran juga dideskripsikan sebagai semua sarana
+berbentuk produk yang membantu dalam proses transfer informasi atau materi pembelajaran dari pemberi informasi kepada penerima informasi sehingga terciptanya kondisi yang efektif dan efisien dalam melakukan kegiatan belajar mengajar (Munadi & Ramdlani, 2020).
+Kebermanfaatan dari media belajar mampu mendorong siswa aktif berinteraksi dan berproses, selain itu hasil belajar akan meningkat karena membantu konsentrasi belajar siswa sehingga daya ingat peserta didik lebih kuat saat memanfaatkan media belajar (Nurrita, 2018).
+Kemampuan mengingat anak ketika mengulang apa yang telah dipelajari lebih tinggi ketika dibantu dengan menggunakan media pembelajaran. Karena itu dapat dipahami dengan jelas
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 167 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+media pembelajaran memang berhasil dimanfaatkan oleh guru untuk mempermudah peserta didik dalam menerima materi pembelajaran di kelas.
+Kebermanfaatan media pembelajaran dalam mendukung penyampaian ilmu pengetahuan dibuktikan oleh penelitian terdahulu. Salah satunya penelitian berjudul “Pengembangan di Kelas V tentang Multimedia Pembelajaran Pengetahuan Alam berbasis
+Komputer”, Pada penelitian tersebut membuktikan ketika menggunakan bantuan media komputer dalam pengajaran Ilmu Pengetahuan Alam di sekolah dasar dapat meningkatkan hasil belajar siswa (Muhasim, 2017). Data penelitian tersebut terdapat data peningkatan skor
+posttest terhadap pretest senilai 62,30 % (dengan rata-rata nilai pretest 44,85 serta rata-rata nilai posttest 72,79). Selanjutnya ada salah satu hasil analisis data kuantitatif membuktikan dengan adanya penggunaan e-learning berbasis gnomio memberikan dampak terhadap hasil
+belajar siswa di kelas, terutama pada mata pelajaran Dasar Desain Grafis. Dari hasil penelitian Nasir dan Galung pada tahun 2021 tentang “Pengaruh Media Pembelajaran E-Learning Berbasis Gnomio Terhadap Hasil Belajar Siswa” diperoleh rerata 58.42 sebelum
+menggunakan e-learning berbasis gnomio. Kemudian diberikan perlakuan melalui pembelajaran e-learning basis gnomio lalu melanjutkan post-test pada kelas eksperimen menemukan rerata 78.68 (Nasir & Galung, 2021).
+Ada pula penelitian tentang Analisis Media Pembelajaran E-Learning di masa pandemi Covid 19 pada Guru SD di Jember (Rohman & Sugeng, 2022). Selama pandemi Covid-19,
+media berbasis digital seperti Edmodo, Quiziz, Google Classroom, Zoom dan media berbasis e-learning yang lain digunakan oleh guru SD/MI di Jember karena harus beralih dari pembelajaran attap mukka di kelas menjadi pembelajaran jarak jauh. Pembelajaran bebasis
+digital atau e-learning ini dipilih oleh guru di SD/MI di Jember sebagai inovasi dalam melakukan pembelajaran jarak jauh. Data-data tersebut didapat melalui hasil penelitian yang dilakukan dengan menggunakan kuisioner dan wawancara yang disebar secara digital pula
+kepada guru SD/MI di Jember dalam bentuk lembar Google Form. Berdasarkan pemaparan permasalahan dan kajian penelitian sebelumnya, peneliti bermaksud memahami dan meninjau lebih dalam hasil penelitian yang selama ini
+memberikan bukti nyata bahwa media pembelajaran efektif digunakan saat belajar. Tujuan penelitian ini adalah memberikan informasi muatan artikel mengenai media pembelajaran di sekolah dasar sehingga menjadi sebuah referensi atau acuan peneliti dalam menentukan tema
+yang diambil khususnya dalam bidang media pembelajaran di sekolah dasar.
+METODE PENELITIAN
+Pengolahan data artikel penelitian ini didasarkan pada penelitian dari publikasi yang telah dipublikasikan dalam jurnal terindeks Google Scholar. Dalam penelitian ini Google Scholar dipilih karena database-nya bersifat open source. Aplikasi Publish or Perish
+digunakan dalam pencarian publikasi guna mencapai tujuan penelitian. Informasi lebih detail
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 168 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+tentang proses pencarian data publikasi dari Google Scholar dengan Publish or Perish dijelaskan pada penelitian sebelumnya (Patricia, 2021).
+Penelitian ini dilaksanakan dengan tahap berikut: 1. melakukan penghimpunan data publikasi dengan aplikasi Publish or Perish; 2. mengolah data bibliometrik untuk artikel yang telah diperoleh dengan menggunakan
+aplikasi Microsoft Excel; 3. melakukan pemetaan bibliometrik komputasional data publikasi menggunakan aplikasi VOSViewer;
+4. menjabarkan hasil analisis pemetaan komputasional. Pencarian menggunakan aplikasi Publish or Perish dengan menggunakan kata kunci Learning OR Instructional AND Media AND “Elementary School”OR”Primary School”
+menghasilkan data publikasi sebanyak 211 artikel jurnal. Dengan bantuan filterisasi oleh Publish or Perish maka artikel jurnal yang diperoleh adalah yang dipublikasikan dari tahun 2012 hingga tahun 2022. Semua data hasil pencarian ini diperoleh pada tanggal 1 November
+2022. Setelah itu, data publikasi diekspor ke dalam dua jenis file yakni: sistem informasi penelitian atau Research Information Systems (.ris) dan format nilai yang dipisahkan koma atau Comma Separated Values (.csv) (Patricia, 2021). Selanjutnya VOSViewer dapat
+digunakan untuk menggambarkan serta mengevaluasi trend dengan peta bibliometrik. Data dari VOSViewer dipetakan ke dalam tiga jenis visualisasi yakni visualisasi jaringan (network
+visualization), visualisasi kepadatan (density visualization), dan visualisasi overlay (overlay visualization). Untuk mempermudah dalam membuat hasil peta bibliometrik, ditetapkan jumlah minimum kemunculan kata kunci sebanyak 3 kali yang kemudian menghasilkan 112
+kata kunci. Dari perolehan 112 kata kunci, dihilangkan sebanyak 13 kata yang kurang relevan terkait media pembelajaran.
+HASIL DAN PEMBAHASAN
+Hasil Pencarian Data Publikasi pada Software Publish or Perish
+Berdasarkan proses pencarian menggunakan prosedur yang telah dipaparkan
+sebelumnya, peneliti menghimpun 211 artikel penelitian mengenai media pembelajaran di sekolah dasar. Artikel tersebut didapatkan dari Google Scholar melalui proses pencarian dan penghimpunan data melalui aplikasi Publish or Perish. Penghimpunan data dari semua artikel
+yang meliputi judul artikel, penulis artikel, tahun publikasi, jurnal yang menerbitkan artikel tersebut, jumlah kutipan, dan URL terkait diolah sehingga menghasilkan sebuah metadata. Meskipun penulis mengatur waktu publikasi dari 2012-2022, artikel yang ditemukan hanya
+berada pada rentang 2013-2022 saja. Selain itu, peneliti juga mencari secara manual tahun publikasi beberapa artikel karena tidak tertangkap tahun publikasinya oleh Publish or Perish. Jumlah kutipan secara keseluruhan yaitu 319 kutipan yang dihimpun dari 211 artikel
+yang diperoleh. Setelah dilakukan pencarian tahun publikasi pada jurnal yang tidak tertera tahun publikasinya, rentang tahun yang didapat yaitu 9 tahun antara 2013 hingga 2022. Rata
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 169 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+rata kutipan per tahun yaitu 39,88. Rata-rata kutipan per artikel yaitu 2,22. Sedangkan ratarata penulis dalam semua artikel yang digunakan yaitu 2,35. Semua artikel yang dihimpun
+yang berjumlah 211 artikel dengan h-indeks bernilai 9 dan g-index dengan nilai 16. Peneliti mengambil 15 artikel dengan kutipan terbanyak.
+Tabel 1. Data Publikasi Media Pembelajaran
+No. Penulis Judul Artikel Tahun Sitasi
+1. Puspita, Y.D. &
+Hanif, M.
+“Using Learning Media to Increase Learning
+Motivation in Elementary School.”
+2019 323
+2. Anwariningsih, S.H. & Ernawati S.
+“Development of Interactive Media for ICT Learning at Elementary School Based on
+Student Self Learning.”
+2013 76
+3. Winarni, E.W., Hambali, D., &
+Purwandari, E.P.
+“Analysis of Language and Scientific Literacy Skills for 4th Grade Elementary
+School Students through Discovery Learning and ICT Media.”
+2020 33
+4. Bernard, M. dkk. “Improve The Ability of Understanding
+Mathematics and Confidence of Elementary School Students with a Contextual Approach
+Using VBA Learning Media for Microsoft Excel.”
+2019 31
+5. Kelana, J.B. “The Effect of the Learning Media and The
+Ability to Think”
+2018 29
+6. Putra, Z.H., Witri, G., & Yulita, T.
+“Development of Powerpoint-Based Learning Media in Integrated Thematic
+Instruction of Elementary School”
+2019 24
+7 Bito, G.S., Fredy, F., & Setyawan W.H.
+“Ethnomathematics: Design of Sabuk Tradisional (Keru)”
+2021 22
+8. Aiman, U., Hasyda, S., & Uslan
+“The Influence of Process Oriented Guided Inquiry (POGIL) Model Asissted by Realia Media to Improve Scientific Literacy and
+critical Thinking Skill of Primary School Student.”
+2020 21
+9. Manjale, N.B. &
+Abel, C.
+“Siginificance and Adequacy of Instructional
+Media as Perceived by Primary School Pupils and Teachers in Kinondomi District, Tanzania”
+2017 19
+10 Zainil, M. dkk. “ICT Media Design for Higher Grade of Elementary School Mathematics Learning
+2017 18
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 170 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+Using CS6 Program” 11 Dinayusadewi, N.P.
+& Agustika G.N.S
+“Development of Augmented Reality
+Application as A Mathematics Learning Media in Elementary School Geometry Materials”
+2020 18
+12. Simorangkir, F.M.A. & Sembiring, R.K.B.
+“Effectiveness of Helped Mathematical Learning Media of Lectora Inspire on The Number Sense Ability of Fifth Grade Student
+of Elementary School in Substrate Materials”
+2018 17
+13. Saputra, D.S., Yuliati, Y., &
+Rachmadtullah, R.
+“Use of Ladder Snake Media in Improving Student Learning Outcomes in Mathematics
+Learning in Elementary School”
+2019 16
+14. Sabilah, F. “Teaching Techniques and Instructional Media in Presenting Intercultural Awereness
+in English Class of Primary School Students”
+2016 16
+15. Daulay, M.I. “Developing Social Science-History's Comics-Based Learning Media for the Fifth
+Grade of Primary School in Pekanbaru City”
+2018 16
+Tabel 2 memperlihatkan perkembangan penelitian di bidang Media Pembelajaran di SD yang diterbitkan pada jurnal terindeks Google Scholar. Tabel 2 memperlihatkan bahwa
+jumlah penelitian pada bidang media pembelajaran di SD berjumlah 211 artikel dari tahun 2012 sampai 2022. Meskipun rentang waktu yang dicari dari tahun 2012-2022, namun tidak ada temuan artikel mengenai Media Pembelajaran di SD pada tahun 2012 yang diperoleh
+melalui Publish or Perish. Artikel yang teridentifikasi dimulai pada tahun 2013 dan 2014 dengan masing-masing 1 artikel untuk tiap tahunnya. Kemudian meningkat dua kali lipat pada tahun 2015 yaitu sejumlah 2 artikel. Pada tahun 2016 terdapat 5 artikel yang kemudian terus
+mengalami peningkatan hingga ada 9 artikel pada tahun 2017. Tahun berikutnya yaitu pada tahun 2018 ada 13 artikel terpublikasi, tahun 2019 pun artikel meningkat dua kali lipat daripada tahun sebelumnya yaitu sejumlah 28 artikel. Tahun 2020 ada 34 artikel yang
+kemudian terus meningkat pada tahun 2021 yakni 54 artikel serta terakhir pada tahun 2022 terdapat sebanyak 64 artikel. Berdasarkan jumlah publikasi tersebut dapat dipahami bahwa setiap tahunnya
+penelitian mengenai media pembelajaran di Sekolah Dasar terus mengalami perkembangan serta peningkatan jumlah penelitian setiap tahunnya. Peningkatan signifikan terjadi pada tahun 2021 dengan jumlah publikasi 54 artikel dan terus meningkat hingga awal November
+tahun 2022.
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 171 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+Tabel 2. Pengembangan Penelitian di Bidang Media Pembelajaran di SD
+Tahun Publikasi Jumlah Publikasi
+2012 0 2013 1 2014 1
+2015 2 2016 5 2017 9
+2018 13 2019 28 2020 34
+2021 54 2022 64
+Jumlah 211
+Rata-rata 19,18
+Gambar 1. Grafik Data Publikasi Media Pembelajaran
+Visualisasi Sebaran Penelitian mengenai Media Pembelajaran di SD Menggunakan
+VOSViewer
+Pemetaan Berdasarkan Klaster
+Pemetaan ini didapatkan setelah menghilangkan 13 kata kunci. Total kata kunci yang relevan dengan “Media Pembelajaraan di SD” berjumlah 99 kata yang membentuk 8 klaster.
+Berikut ini adalah klaster-klaster sebaran penelitian mengenai media pembelajaran di SD. 1. Klaster 1 memiliki 22 item dan ditandai dengan warna merah yaitu android, concept, development, fifth grade, fifth grade elementary school student, game, grade iv
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 172 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+elementary school, grade v elementary school student, innovation, integrated thematic learning, learning, media, media development, medium, motivation, picture, primary
+school, primary school student, quality, research, subject, video.
+2. Kalster 2 memiliki 17 item dan ditandai dengan warna hijau yaitu book, classroom, effect, elementary school mathematics, fourth grade, grade, grade iv elementary school student,
+influence, interest, learning medium, media use, outcome, science, skill, social study, student, teaching.
+3. Klaster 3 memiliki 16 item dan ditandai dengan warna biru tua yaitu ability, application,
+assessment, education, elementary school student, elementary school teacher, fourth grade elementary school, interactive, learning media, learning process, media expert, public elementary school, social science, teacher, use, utilization,
+4. Klaster 4 memiliki 16 item dan ditandai dengan warna kuning yaitu analysis, critical thinking skill, educator, elementary school, elementary school child, impact, implementation, independence, instructional media, instructional medium, mathematics,
+PBL, problem, pupil, scientific literacy, technology.
+5. Klaster 5 memiliki 15 item dan ditandai dengan warna ungu yaitu activity, audio visual media, audio visual medium, child, covid, effectiveness, effort, feasibility, fourt grade
+elementary school student, pandemic, powtoon, practicality, process, third grade.
+6. Klaster 6 memiliki 10 item dan ditandai dengan warna biru muda yaitu character
+education, fifth grade elementary school, image medium, object, science content, science learning, state elementary, theme, video media, video medium.
+7. Klaster 7 hanya memiliki 2 item ditandai dengan warna jingga yaitu computer dan mathematics learning yang
+8. Klaster 8 juga hanya memiliki 2 item yang ditandai dengan warna coklat yaitu curriculum dan ICT
+Keterkaitan antar kata kunci ditunjukkan pada setiap klaster yang ada. Sementara itu, untuk analisis visualisasi pemetaan terdiri dari tiga bagian dengan fungsi dan tujuan yang berbedabeda yaitu visualisasi jaringan (network visualization), visualisasi densitas (density
+visualization), dan visualisasi overlay (overlay visualization).
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 173 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+Visualisasi Jaringan
+Gambar 2. Visualisasi Jaringan Media Pembelajaran Gambar 2 memperlihatkan hubungan antar istilah, dimana hubungn antar istilah ini diwujudkan dalam gambar yang saling berkaitan. Gambar 2 memberikan bukti tentang klaster
+masing-masing yang paling sering diteliti ialah penelitian dengan topik medium dalam pembelajaran. Dari klaster-klaster yang ada pada visualisasi jaringan dapat diketahui bahwa dalam penelitian topik media pembelajaran di SD dapat dipisahkan menjadi beberapa kata
+kunci utama yaitu medium, elementary school, dan learning media.
+Visualisasi Densitas
+Gambar 3. Visualisasi Densitas
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 174 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+Visualisasi densitas menggambarkan jika semakin cerah warna kuning dan semakin besar lingkar yang mengelilingi kata kunci, maka semakin sering kata kunci itu muncul dalam
+artikel penelitian (Husaeni & Nandiyanto, 2022). Berdasarkan visualisi densitas yang peneliti dapatkan dari VOSViewer, kata “Media” memiliki warna paling kuning dan lebar sehingga dapat diartikan bahwa topik tersebut sering dilakukan untuk penelitian. Begitu juga
+sebaliknya, jika warna itu memudar mendekati warna latar belakang, maka jumlah penelitian yang berkenaan dengan topik tersebut semakin sedikit. Hal ini dibuktikan pada gambar 3, bahwa penelitian yang berkaitan dengan istilah media, pengembangan, efektivitas, dan siswa
+memiliki jumlah pembahasan yang cukup intensif.
+Visualisasi Overlay
+Gambar 4. Visualisasi Overlay
+Visualisasi overlay ini menggambarkan topik yang sedang tren atau kata kunci penelitian pada kurun waktu tertentu. Berdasarkan visualisasi pada gambar 4, penelitian
+mengenai media pembelajaran di SD mengalami perkembangan fokus topik yang bervariasi setiap waktunya. Pada tahun 2013-2019 penelitian mengenai media pembelajaran di SD
+berfokus pada pengembangan media di kelas tertentu dan pada mata pelajaran tertentu. Tren yang terjadi pada tahun 2019-2020 penelitian mengenai media pembelajaran di SD berfokus pada pengaruh media pembelajaran meliputi efektivitas, hasil belajar, inovasi pembelajaran,
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 175 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+dan pengaruhnya terhadap pembelajaran di kelas oleh guru. Setelah itu, tren menjadi lebih berfokus pada media pembelajaran berbasis online pada tahun 2020-2022 yang disebabkan
+oleh adanya pandemi Covid-19 sehingga penelitian banyak membahas beragam jenis media pembelajaran online di SD seperti Powtoon, android, video, gambar, dan media pembelajaran interaktif yang dapat diakses dari rumah.
+SIMPULAN
+Berdasarkan pemaparan hasil maupun pembahasan penelitian tentang Analisis
+Bibliometrik Media Pembelajaran di Sekolah Dasar Menggunakan VOSViewer dapat disimpulkan bahwa dengan adanya penelitian ini pembaca dapat memahami tentang analisis pemetaan komputasional pada data biblibiometrik terkait media pembelajaran di SD. Studi
+bibliometrik dapat dipahami sebagai bidang pengetahuan menggunakan prosedur statistik matematis dalam literatur berkaitan dengan topik ilmiah, serta didasarkan pada: bibliografi dan abstrak, referensi atau kutipan, direktori atau katalog umum judul jurnal. Dengan
+membawa topik media pembelajaran di SD lalu penghimpunan data yang dibantu dengan menggunakan aplikasi Publish or Perish di mana data yang diambil adalah artikel yang ada di Google Shoolar, maka diperolehlah hasil pencarian artikel sebanyak 211 artikel yang relevan
+dengan topik pembahasan. Untuk tahun terbit yang digunakan pada Publish or Perish ialah rentang tahun 2012-2022. Dari data Publish or Perish artikel yang ditemukan dimulai dari
+tahun 2013 dengan jumlah hanya 1 artikel lalu bertambah dengan variasi peningkatan berbeda sampai tahun 2022. Kemudian berdasarkan hasil visualisasi VOSViewer kita juga mengetahui bahwa penelitian media pembelajaran di SD terus dilakukan menyesuaikan dengan
+perkembangan teknologi saat ini. Terutama saat masa pandemi Covid-19 banyak dilakukan penelitian tentang inovasi, penggunaan, pemanfaatan, pengembangan media pembelajaran di SD.
+DAFTAR PUSTAKA
+Aiman, U., & Hasyda, S. (2020). The Influence of Process Oriented Guided Inquiry Learning (POGIL) Model Assisted by Realia Media to Improve Scientific Literacy and Critical Thinking Skill of Primary School Students. European Journal of Educational Research, 9(4), 1635-1647.
+Anwariningsih, S. H., & Ernawati, S. (2013). Development of interactive media for ICT learning at elementary school based on student self learning. Journal of Education and Learning, 7(2), 121-128.uhasim, M. (2017). Pengaruh Tehnologi Digital terhadap Motivasi Belajar Peserta Didik. Palapa, 5(2), 53–77. https://doi.org/10.36088/palapa.v5i2.46
+Bernard, M., Akbar, P., Ansori, A., & Filiestianto, G. (2019, October). Improve the ability of understanding mathematics and confidence of elementary school students with a
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 176 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+contextual approach using VBA learning media for Microsoft Excel. In Journal of Physics: Conference Series (Vol. 1318, No. 1, p. 012035). IOP Publishing.
+Bito, G. S., Fredy, F., & Setyawan, W. H. (2021). Ethnomathematics: Design of Sabuk Tradisional (Keru) Bajawa as A Learning Media For Elementary School. ELEMENTARY: Islamic Teacher Journal, 9(1), 127-146.
+Daulay, M. I. (2018). Developing social science-history’s comics-based learning media for the fifth grade of primary school in Pekanbaru City. International Journal of Research in Counseling and Education, 1(1), 15-21.
+Dinayusadewi, N. P., & Agustika, G. N. S. (2020). Development of augmented reality application as a mathematics learning media in elementary school geometry materials. Journal of Education Technology, 4(2), 204-210.
+Husaeni, D. F. A. & Nandiyanto A. B. D. (2022). Bibliometric Computational Mapping Analysis of Publications on Mechanical Engineering Education Using Vosviewer. Journal of Engineering Science and Technology, 17(2).
+Kelana, J. B. (2018). The effect of the learning media and the ability to think creative of to the ability to science literacy student of elementary school. PrimaryEdu: Journal of Primary Education, 2(2), 79-86.
+Manjale, N. B., & Abel, C. (2017). Significance and adequacy of instructional media as perceived by primary school pupils and teachers in Kinondoni District, Tanzania. International Journal of Educational Policy Research and Review, 4(6), 151
+157.
+Muhasim, M. (2017). Pengaruh Teknologi Digital terhadap Motivasi Belajar Peserta Didik. Palapa, 5(2), 53–77. https://doi.org/10.36088/palapa.v5i2.46
+Munadi, U., & Ramdlani, M. (2020). Media Audio Visual Dalam Pembelajaran Pai. Al Murabbi, 5(1), 1–8. https://doi.org/10.35891/amb.v5i1.1854
+Nasir, N., & Galung, E. A. H. (2021). Pengaruh Media Pembelajaran E-Learning Berbasis Gnomio Terhadap Hasil Belajar Siswa. Jurnal Literasi Digital, 1(2), 130–138.
+Nurrita, T. (2018). Pengembangan Media Pembelajaran Untuk Meningkatkan Hasil Belajar Siswa. MISYKAT: Jurnal Ilmu-Ilmu Al-Quran, Hadist, Syari’ah Dan Tarbiyah, 3(1), 171. https://doi.org/10.33511/misykat.v3n1.171
+Partono, P., Wardhani, H. N., Setyowati, N. I., Tsalitsa, A., & Putri, S. N. (2021). Strategi Meningkatkan Kompetensi 4C (Critical Thinking, Creativity, Communication, & Collaborative). Jurnal Penelitian Ilmu Pendidikan, 14(1), 41–52. https://doi.org/10.21831/jpipfip.v14i1.35810
+
+
+Educatio: Jurnal Ilmu Kependidikan Vol. 17, No 2 Desember 2022, hal. 165-177 http://e-journal.hamzanwadi.ac.id/index.php/edc
+e-ISSN: 2527-9998
+Received: 27 Desember 2022 Educatio: Jurnal Ilmu Kependidikan I 177 Accepted: 27 Januari 2023 Online Published: 15 Februari 2023 DOI: 10.29408/edc.v17i2.9435
+Patricia, C. O. S. (2021). Journal of Global Literacies, Technologies, and Emerging Pedagogies. 3(2), 6.
+Puspitarini, Y. D., & Hanif, M. (2019). Using Learning Media to Increase Learning Motivation in Elementary School. Anatolian Journal of Education, 4(2), 53-60.
+Putra, Z. H., Witri, G., & Yulita, T. (2019). Development of powerpoint-based learning media in integrated thematic instruction of elementary school. International Journal of Scientific and Technology Research, 8(10), 697-702.
+Rohman, A. N., & Sugeng, S. (2022). Meningkatkan Kompetensi Guru Melalui Pelatihan Penulisan Karya Tulis Ilmiah Dan Publikasi Jurnal Ilmiah Berbasis Open Journal System (OJS) Di MTs Negeri 32 Jakarta. JATI EMAS (Jurnal Aplikasi Teknik Dan Pengabdian Masyarakat), 6(1), 13. https://doi.org/10.36339/je.v6i1.544.
+Sabilah, F. (2016). Teaching techniques and instructional media in presenting intercultural awareness in English class of primary school students. International Journal of Linguistics, Literature and Culture, 2(4), 112-121.
+Saputra, D. S., Yuliati, Y., & Rachmadtullah, R. (2019, November). Use of ladder snake media in improving student learning outcomes in mathematics learning in elementary school. In Journal of physics: conference series (Vol. 1363, No. 1, p. 012058). IOP Publishing.
+Simorangkir, F., & Sembiring, R. K. B. (2018). Effectiveness of Helped Mathematical Learning Media of Lectora Inspire on The Number Sense Ability of Fifth Grade Students of Elementary School in Substrate Materials. Budapest International Research and Critics Institute-Journal (BIRCI-Journal), 1(3), 352-358.
+Siregar, E. (2022). Mendesain Pembelajaran Daring dengan Platform Sederhana untuk Guruguru. Diseminasi, 4(1A), 130–136.
+Wahyuningtyas, R., & Sulasmono, B. S. (2020). Pentingnya Media dalam Pembelajaran Guna Meningkatkan Hasil Belajar di Sekolah Dasar. Edukatif : Jurnal Ilmu Pendidikan, 2(1), 23–27. https://doi.org/10.31004/edukatif.v2i1.77.
+Winarni, E. W., Hambali, D., & Purwandari, E. P. (2020). Analysis of Language and Scientific Literacy Skills for 4th Grade Elementary School Students through Discovery Learning and ICT Media. International Journal of Instruction, 13(2), 213-222.
+Zainil, M., Prahmana, R. C. I., Helsa, Y., & Hendri, S. (2017, December). ICT media design for higher grade of elementary school mathematics learning using CS6 program. In Journal of Physics: Conference Series (Vol. 943, No. 1, p. 012046). IOP Publishing.

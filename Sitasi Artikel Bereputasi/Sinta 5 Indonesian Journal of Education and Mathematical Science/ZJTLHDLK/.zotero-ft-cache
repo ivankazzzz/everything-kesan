@@ -1,0 +1,71 @@
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 53~57 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.16783
+53
+Android-Based Interactive Multimedia Development Using ISpring Suite 11 in Informatics Engineering Class X Senior High School
+Rahmadini Triana Martin1, Syafril2, Meldi Ade Kurnia Yusri3, Fetri Yeni J4 1,2,3,4Universitas Negeri Padang, Padang, Indonesia 1,airatrianamartin@gmail.com syafril@fip.unp.ac.id
+ABSTRACT
+This research focuses on developing interactive multimedia based on the Android platform for the eyes Information Technology lessons in class X high school (SMA). In an era marked by the growing role of technology in education, this research aims to create innovative and engaging learning tools that fit the curriculum while leveraging the capabilities of Android devices. This research followed a systematic development process, including needs analysis, design, development, implementation, and evaluation. This multimedia content combines various interactive elements such as quizzes, simulations, and multimedia presentations to improve students' understanding and retention of information technology concepts. This study also evaluates the usability, effectiveness and satisfaction of both students and teachers with the Android-based interactive multimedia that has been developed. The findings of this research indicate that the use of Android-based interactive multimedia has been proven to be highly valid in terms of validity and practicality testing. This Android-based interactive multimedia has proven to be very suitable, both in terms of its content, appearance, and how it is used in accordance with the needs and characteristics of students. This research ultimately aims to improve the quality of Information Technology education at the high school level through the use of innovative Android-based interactive multimedia. Keyword : Interactive Multimedia, Android Based
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Corresponding Author: Syafril, Department of Curriculum and Educational, Universitas Negeri Padang, Jl. Prof. Dr. Hamka, Air Tawar, Padang, Sumatera Barat, Indonesia syafril@fip.unp.ac.id
+1. INTRODUCTION
+Education is a crucial aspect in the development of individuals and society. In the increasingly developing digital era, education must also adapt to rapid technological changes. Informatics Engineering subjects are an important part of the educational curriculum which equips students with knowledge and skills in information technology. However, in facing these challenges, there is a need to introduce learning methods that are more innovative and relevant to an increasingly connected world. One potential learning method is the development of interactive multimedia based on Android. The Android platform has dominated the mobile device market with the number of users continuing to increase. Therefore, Using Android as a basis for developing interactive multimedia in the classroom can be an effective approach to improving the quality of learning. This technology allows students to learn in a more interesting and engaged way, which in turn can improve their understanding of Informatics Engineering concepts.
+However, despite its great potential, there has not been much in-depth research regarding the use of Android-based interactive multimedia in the context of learning Information Engineering at the high school (SMA) level, especially in class X. Therefore, this article aims to describe the development and application of multimedia Android-based interactive on Engineering subjects. Informatics at high school level. It is hoped that this research will provide a clearer view of the potential and benefits of this learning approach and provide a basis for further development in this field. With this innovation, it is hoped that learning about Informatics Engineering in high school can become more interesting, interactive and effective in preparing the younger generation to face the demands of the ever-growing digital world.
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 53~57 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.16783
+54
+2. RESEARCH METHOD
+The Research and Development (R&D) model is an approach used to develop or enhance products, processes, or technologies. Sugiyono (2011:297) writes that research and development methods are research methods used to produce a product and test the effectiveness of the product. The development model used is the model according to Thiagarajan, namely the 4D model which consists of 4 stages, namely definition, design, development and dissemination. The validity test of Android-based interactive multimedia products was tested on media experts and material experts. Meanwhile, the practicality test of Android-based interactive multimedia products was tested on 33 students of X.E4 SMA N 1 Suliki District. In this research, the researcher chose the subject of Informatics Engineering with material on Computer Networks and the Internet. The material discusses computer networks, types of computer networks, internet networks, and internet connections.
+Table 1. Assessment Categories by Validator Achievement level Category 1 Very bad 2 Not good 3 Pretty good 4 Good 5 Very good
+To find out the average score given by the validator, you can get it using the formula:
+The criteria for making media validation decisions can be seen in table 2 as follows:
+Table 2. Validity Criteria Level achievement Category 81-100% Very bad 61-80% Not good 41-60% Pretty good 21-40% Good >20% Very good
+Next are the calculations to get practicality data:
+The criteria for making media practicality decisions can be seen in table 3 as follows:
+Table 3. Practicality Criteria
+Level achievement Category 81-100% Very valid 61-80% Valid 41-60% Fairly valid 21-40% Not valid >20% Very invalid
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 53~57 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.16783
+55
+3. RESULTS AND DISCUSSION A. Research Results
+In this research, a multimedia interactive Android-based application has been successfully developed for the subject of Computer Engineering in grade X of high school, which can enhance students' understanding. The presentation of research results follows the steps in developing research using the 4D model, namely the definition, design, development and dissemination stages. In this research, the focus is on the development stage because the main goal is to create interactive multimedia products for Informatics Engineering subjects, computer network and internet material. 1) Definition Stage (Define) The definition stage in this research includes several important steps. First, through curriculum analysis, researchers found that SMA N 1 Suliki District uses an independent curriculum which encourages students to be more active in learning. Furthermore, student analysis revealed that many students did not pay attention when the teacher explained the material due to the lack of variety in the use of learning media. In addition, concept analysis highlights the complexity of Informatics Engineering material, especially in the topic of Computer Networks and the Internet, which involves a number of important concepts. Finally, in formulating learning objectives, the main goal is for students to be able to explain the basic concepts of computer networks, including types of networks, topology, and the main components used in forming networks. 2) Design Stage (Design) Creating an initial interactive multimedia design that refers to the concept that has been created. The media was created using iSpring Suite 11 Software. The display presented in the interactive multimedia consists of: (1) opening intro scene,(2) main menu scene, (3) media developer profile scene, (4) learning objectives scene, (5) ). guide scene, (6) material content scene, (7) quiz scene. In the finishing stage, the media format was changed to Android. The Android-based interactive multimedia design can be seen in the following image:
+Fig 1. Based Interactive MultimediaAndroid
+3) Development Stage (Development) This development research produces a product in the form of interactive multimedia based on Android as a learning medium for Information Engineering in class X SMA N 1 Suliki District which is suitable for use. The results of this research can be seen from the validation results provided by the validator as well as practical results to see student responses to the product being developed. a. Validity test 1) Media and Materials Expert The following will explain the results of media experts' assessments of the products being developed, which can be seen in tables 4 and 5.
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 53~57 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.16783
+56
+Table 4. Media and Material Validator Assessment Source Average Percentage Categories Nofri henry, S.Pd, M.Pd 4,93 98,75% Very valid Septriyan Anugrah, S.Kom, M.Pd 4,93 98,75% Very valid
+Oktavia Suci Rahma, S.Pd 4,86 97,33% Very valid
+b. Practicality Test 1) Students The following will explain the results of student assessments of the products developed which can be seen in table 7.
+Table 5. Practicality assessment No Aspects Sum Average Overall average
+Overall percentage
+category
+1 Activeness and
+independence of learning 144 4,36
+4,56 91% Very practical
+2
+Easy understanding of
+the material 148 4,48
+3 Interest in learning 150 4,55
+4 Means of interacting
+teachers with students 154 4,67 5 Fostering curiosity 155 4,70
+6 Communicative
+language 150 4,55 7 Exact typeface and size 153 4,64
+8 Good media quality 145 4,39
+9 Interesting media 154 4,67
+10
+Media awakens the importance of technology
+153 4,64
+4) Dissemination Stage After the product has been developed, the next step is this stage. At this stage, the product will be integrated into a larger context. The interactive multimedia that has been created can be accessed by installing applications that have been distributed through groups between classes, with the help of each student's homeroom teacher. Apart from that, interactive multimedia will also be distributed to other Informatics Engineering teachers at SMA N 1 Suliki District.
+4. CONCLUSION
+Based on the discussion above, it can be concluded that learning media using interactive multimedia in the Informatics Engineering subject can be used in the learning process as a learning resource for class X SMA students in accordance with the media eligibility criteria. The aim of this development research in the learning context is to create a more interesting learning experience and be able to arouse students' interest and motivation so that they are more active in the Informatics Engineering learning process. Android- based interactive multimedia is able to create a more dynamic and enjoyable learning experience by using various types of media, such as video, images, sound and animation. This helps students to be more actively involved in the learning process. Besides that, Interactive multimedia can
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 1, Januari 2024, pp. 53~57 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i1.16783
+57
+also provide instant feedback and exercises that can help students test their understanding. With the right approach in designing and implementing interactive multimedia, education can become more interesting, effective and relevant for today's digital generation.
+REFERENCES
+[1] Affrida Z., & Susanti. (2017). Jenis-Jenis Media dalam Pembelajaran. Umsida, 1(1), 5-6. [2] Arsyad A. (2016). Media Pembelajaran. Jakarta: Raja Grafindo Persada. [3] Dinus. (2020). Konsep dan fungsi multimedia interaktif. Jurnal Perancangan Media Informasi, 8(5), 1-4. [4] Dwi Surjono H. (2017). Multimedia Pembelajaran Efektif. Yogyakarta: UNY Pres. [5] Mohamad B. T., Puput P. R., & Beni J. (2021). Pengembangan multimedia interaktif berbasis Android pada materi kualitas instrumen evaluasi pembelajaran matematika. Jurnal Inovasi Teknologi Pendidikan, 8(2), 163-172. [6] Putra Z. H. (2015). Media Pembelajaran Berbasis Teknologi SD. Pekanbaru: Zesya Pulisher. [7] Asis S., & Ika B. (2016). Pembelajaran Efektif, Bandung: PT Remaja Rosdakarya. [8] Candra H. K. (2019). Pengantar Teknologi Informasi. Banjarmasin: Poliban Press. [9] Damopolii V., Bito N., & Resmawan. (2019). Efektivitas media pembelajaran berbasis multimedia pada materi segiempat. ALGORITMA Journal of Mathematics Education (AJME), 1(2), 74-85.
+[10] Diyan F., & Upik Y. (2016). Pengembangan media pembelajaran multimedia interaktif berbasis android pada materi plantae untuk siswa SMA menggunakan eclipse galileo. Biodik, 2(1). [11] Faedah N. B., Asrul B., Veni I., Dwi K. S. (2021). Studi literatur efektifitas media interaktif motion graphic dalam pembelajaran. Surabaya: Jurnal Tata Boga. [12] Fera K. (2020). Pengembangan media interaktif berbasis android dengan model group investigation untuk menyimak dongeng. Joyful Learning Journal, 9(1), 23-28. [13] Istiqlal M., & Urwatul W. D. (2013). Pengembangan multimedia pembelajaran matematika SMA untuk meningkatkan motivasi dan prestasi belajar matematika materi logika matematika. Pythagoras: Jurnal Pendidikan Matematika, 3(1), 44-54.
+[14] Kustandi C., & Darmawan D. (2020). Pengembangan Media Pembelajaran. Jakarta: Kencana. [15] Mohamad B. T., Puput P. R., & Beni J. (2021). Pengembangan multimedia interaktif berbasis android pada materi kualitas instrumen evaluasi pembelajaran matematika. Jurnal Inovasi Teknologi Pendidikan, 8(2), 163-172.

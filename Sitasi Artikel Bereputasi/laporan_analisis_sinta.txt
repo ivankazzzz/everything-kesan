@@ -1,0 +1,81 @@
+### **4. Pembahasan**
+
+Bagian pembahasan ini mengelaborasi temuan-temuan kunci dari analisis meta-kualitatif terhadap artikel-artikel yang terbit di jurnal SINTA level 1 hingga 6, dengan fokus pada tiga variabel utama: Struktur Argumentasi Pendahuluan (P), Transparansi Metodologi (M), dan Kedalaman Interpretasi Pembahasan (D). Analisis ini bertujuan untuk mengidentifikasi pola penulisan yang membedakan kualitas artikel pada jurnal SINTA level tinggi (S1-S2) dan level rendah (S5-S6), serta memberikan panduan berbasis bukti bagi peningkatan kualitas manuskrip ilmiah.
+
+#### **4.1. Struktur Argumentasi Pendahuluan (Variabel P)**
+
+Analisis terhadap struktur argumentasi pada bagian pendahuluan, berpedoman pada kerangka *Creating a Research Space* (CARS) oleh Swales, menunjukkan perbedaan kualitatif yang signifikan di antara berbagai level SINTA.
+
+*   **Jurnal SINTA Level Tinggi (S1-S2)**: Artikel-artikel pada jurnal SINTA 1 (EDULEARN) dan SINTA 2 (BSKAP) secara konsisten menampilkan pendahuluan yang **sangat argumentatif**. Penulis pada level ini mahir dalam membangun ketiga langkah retoris CARS:
+    *   **Menetapkan Wilayah (*Establishing a Territory*)**: Konteks penelitian disajikan dengan kuat, didukung oleh literatur terkini dan relevan, serta secara efektif menunjukkan sentralitas dan urgensi topik dalam diskursus akademis yang lebih luas.
+    *   **Menetapkan Ceruk (*Establishing a Niche*)**: Identifikasi celah penelitian (*research gap*) dilakukan secara eksplisit, tajam, dan didukung oleh analisis kritis terhadap literatur sebelumnya. Penulis secara meyakinkan menunjukkan "apa yang belum diketahui" atau "apa yang perlu diteliti lebih lanjut".
+    *   **Mengisi Ceruk (*Occupying the Niche*)**: Tujuan penelitian dirumuskan dengan sangat jelas dan spesifik, secara langsung merespons celah yang telah diidentifikasi, dan seringkali diikuti dengan pertanyaan penelitian yang terarah.
+    Kualitas argumentasi ini mengindikasikan pemahaman mendalam penulis terhadap kontribusi orisinal penelitian mereka.
+
+*   **Jurnal SINTA Level Menengah (S3-S4)**: Artikel-artikel pada jurnal SINTA 3 (Scholaria Jurnal Pendidikan dan Kebudayaan) dan SINTA 4 (Educatio) menunjukkan **variasi dalam penerapan model CARS, dengan kecenderungan ke arah deskripsi yang bervariasi**.
+    *   **Menetapkan Wilayah**: Topik penelitian diperkenalkan, namun kedalaman tinjauan literatur dan penempatan dalam konteks akademis yang kuat masih bervariasi. Beberapa pendahuluan lebih deskriptif daripada argumentatif.
+    *   **Menetapkan Ceruk**: Upaya untuk mengidentifikasi celah penelitian terlihat, tetapi perumusannya seringkali kurang eksplisit, kurang tajam, atau tidak didukung secara memadai oleh analisis kritis terhadap literatur. Ada kecenderungan untuk langsung menyatakan masalah tanpa menunjukkan bagaimana masalah tersebut merupakan "celah" yang belum terisi.
+    *   **Mengisi Ceruk**: Tujuan penelitian umumnya ada, tetapi justifikasi tujuan terkadang lemah karena kelemahan dalam merumuskan celah. Tujuan seringkali bersifat deskriptif atau eksploratif tanpa secara eksplisit mengaitkannya dengan kontribusi baru yang signifikan.
+
+*   **Jurnal SINTA Level Rendah (S5-S6)**: Artikel-artikel pada jurnal SINTA 5 (Indonesian Journal of Education and Mathematical Science) dan SINTA 6 (JURNAL PENA EDUKASI) secara konsisten menunjukkan pendahuluan yang **sangat deskriptif dan kurang dalam membangun argumen ilmiah yang kuat**.
+    *   **Menetapkan Wilayah**: Pengenalan topik cenderung umum dan kurang mendalam, dengan referensi literatur yang terbatas atau digunakan untuk mendukung pernyataan umum daripada membangun argumen yang kuat.
+    *   **Menetapkan Ceruk**: Identifikasi celah penelitian sangat jarang eksplisit atau tajam. Penulis cenderung langsung menyatakan masalah atau kebutuhan tanpa secara kritis menganalisis literatur yang ada untuk menunjukkan kekosongan pengetahuan yang spesifik.
+    *   **Mengisi Ceruk**: Tujuan penelitian umumnya ada, tetapi sangat umum dan deskriptif, seperti "untuk mengembangkan..." atau "untuk mengetahui...", tanpa secara jelas menunjukkan kontribusi orisinal penelitian.
+
+#### **4.2. Transparansi Metodologi (Variabel M)**
+
+Tingkat transparansi metodologi menunjukkan gradasi yang jelas seiring dengan peningkatan level SINTA.
+
+*   **Jurnal SINTA Level Tinggi (S1-S2)**: Artikel-artikel pada SINTA 1 dan SINTA 2 menunjukkan **transparansi metodologi yang tinggi**.
+    *   **Kerincian Desain Penelitian**: Desain penelitian dijelaskan secara rinci dengan justifikasi yang jelas.
+    *   **Partisipan/Sampel**: Deskripsi partisipan atau sampel sangat detail, termasuk kriteria inklusi/eksklusi dan proses sampling.
+    *   **Instrumen dan Validasi**: Instrumen dijelaskan dengan baik, dan informasi mengenai validitas serta reliabilitas (termasuk koefisien statistik) disajikan secara transparan.
+    *   **Prosedur Pengumpulan Data**: Langkah-langkah pengumpulan data dijelaskan secara sistematis dan kronologis.
+    *   **Analisis Data**: Metode analisis data dijelaskan dengan detail, termasuk perangkat lunak yang digunakan dan justifikasi pilihan analisis.
+
+*   **Jurnal SINTA Level Menengah (S3-S4)**: Artikel-artikel pada SINTA 3 dan SINTA 4 menunjukkan **transparansi metodologi yang cukup memadai namun seringkali kurang detail**.
+    *   **Kerincian Desain Penelitian**: Desain penelitian disebutkan, tetapi justifikasi atau detail implementasi terkadang kurang.
+    *   **Partisipan/Sampel**: Informasi partisipan/sampel umumnya ada, tetapi detail demografi atau proses sampling yang sangat ketat seringkali kurang.
+    *   **Instrumen dan Validasi**: Instrumen disebutkan, dan beberapa artikel menyertakan informasi validitas/reliabilitas, tetapi tingkat kedetailan dan konsistensinya bervariasi.
+    *   **Prosedur Pengumpulan Data**: Prosedur dijelaskan, tetapi terkadang kurang sistematis atau rinci.
+    *   **Analisis Data**: Metode analisis data disebutkan, tetapi penjelasan mengenai justifikasi atau interpretasi mendalam dari hasil analisis statistik seringkali terbatas.
+
+*   **Jurnal SINTA Level Rendah (S5-S6)**: Artikel-artikel pada SINTA 5 dan SINTA 6 secara konsisten menunjukkan **transparansi metodologi yang terbatas**.
+    *   **Kerincian Desain Penelitian**: Desain penelitian seringkali disebutkan secara umum tanpa detail atau justifikasi yang memadai.
+    *   **Partisipan/Sampel**: Informasi partisipan/sampel terbatas pada jumlah dan lokasi, tanpa detail relevan atau proses sampling yang jelas.
+    *   **Instrumen dan Validasi**: Instrumen disebutkan, tetapi informasi validitas dan reliabilitas hampir tidak ada atau sangat minimal, seringkali hanya berupa pernyataan tanpa bukti empiris.
+    *   **Prosedur Pengumpulan Data**: Prosedur dijelaskan secara singkat, tanpa detail yang memadai.
+    *   **Analisis Data**: Metode analisis data disebutkan, tetapi penjelasan mengenai justifikasi atau interpretasi mendalam dari hasil analisis statistik sangat terbatas, seringkali hanya menyajikan hasil mentah.
+
+#### **4.3. Kedalaman Interpretasi Pembahasan (Variabel D)**
+
+Kedalaman interpretasi pembahasan juga menunjukkan korelasi positif dengan level akreditasi jurnal.
+
+*   **Jurnal SINTA Level Tinggi (S1-S2)**: Artikel-artikel pada SINTA 1 dan SINTA 2 menunjukkan **kedalaman interpretasi pembahasan yang substansial**.
+    *   **Interpretasi Makna Temuan**: Pembahasan melampaui sekadar meringkas hasil, secara aktif menginterpretasikan makna temuan, menjelaskan "mengapa" dan "bagaimana" hasil tersebut muncul.
+    *   **Perbandingan dengan Literatur Relevan**: Temuan secara konsisten dibandingkan dan dikaitkan dengan literatur yang relevan, menunjukkan bagaimana temuan mendukung, memperluas, mengkontradiksi, atau memberikan perspektif baru terhadap teori dan penelitian sebelumnya.
+    *   **Pengakuan Keterbatasan Studi**: Keterbatasan studi diakui secara jujur, menunjukkan objektivitas dan kesadaran akan ruang lingkup penelitian.
+    *   **Perumusan Implikasi Teoretis/Praktis**: Implikasi teoretis dan/atau praktis dirumuskan secara eksplisit, menunjukkan kontribusi nyata penelitian terhadap pengetahuan dan praktik.
+
+*   **Jurnal SINTA Level Menengah (S3-S4)**: Artikel-artikel pada SINTA 3 dan SINTA 4 menunjukkan **kedalaman interpretasi pembahasan yang bervariasi**.
+    *   **Interpretasi Makna Temuan**: Pembahasan seringkali dimulai dengan meringkas hasil, dan beberapa artikel mampu melangkah lebih jauh dengan menginterpretasikan makna. Namun, interpretasi ini terkadang masih bersifat permukaan.
+    *   **Perbandingan dengan Literatur Relevan**: Ada upaya untuk membandingkan temuan dengan literatur yang relevan, tetapi perbandingan ini bersifat umum dan tidak selalu mengidentifikasi secara spesifik bagaimana temuan berkontribusi pada teori.
+    *   **Pengakuan Keterbatasan Studi**: Beberapa artikel mengakui keterbatasan studi, tetapi diskusi mendalam tentang implikasinya seringkali kurang.
+    *   **Perumusan Implikasi Teoretis/Praktis**: Implikasi teoretis atau praktis seringkali disebutkan, tetapi cenderung kurang spesifik atau inovatif.
+
+*   **Jurnal SINTA Level Rendah (S5-S6)**: Artikel-artikel pada SINTA 5 dan SINTA 6 secara konsisten menunjukkan **kedalaman interpretasi pembahasan yang sangat dangkal**.
+    *   **Interpretasi Makna Temuan**: Pembahasan hampir seluruhnya bersifat ringkasan hasil, hanya mengulang data atau temuan tanpa menginterpretasikan makna yang lebih dalam.
+    *   **Perbandingan dengan Literatur Relevan**: Perbandingan dengan literatur yang relevan sangat minimal atau tidak ada, seringkali hanya berupa sitasi tanpa diskusi kritis.
+    *   **Pengakuan Keterbatasan Studi**: Pengakuan terhadap keterbatasan studi sangat jarang ditemukan atau hanya disebutkan secara singkat tanpa diskusi mendalam.
+    *   **Perumusan Implikasi Teoretis/Praktis**: Implikasi teoretis atau praktis seringkali tidak dirumuskan secara eksplisit atau hanya berupa saran umum yang tidak secara langsung berasal dari temuan penelitian.
+
+#### **4.4. Sintesis Umum dan Implikasi untuk Penulisan Artikel Ilmiah**
+
+Secara umum, terdapat **perbedaan yang tajam dan konsisten** dalam kualitas penulisan artikel ilmiah seiring dengan level akreditasi jurnal SINTA. Jurnal SINTA level tinggi (S1-S2) secara holistik menunjukkan praktik penulisan yang matang, ditandai dengan pendahuluan yang argumentatif, metodologi yang transparan dan replikabel, serta pembahasan yang interpretatif dan berorientasi pada kontribusi. Sebaliknya, jurnal SINTA level rendah (S5-S6) cenderung menampilkan pendahuluan yang deskriptif, metodologi yang kurang transparan, dan pembahasan yang hanya meringkas hasil. Jurnal SINTA level menengah (S3-S4) berada di antara kedua ekstrem ini, menunjukkan upaya yang bervariasi dalam mencapai standar penulisan yang lebih tinggi.
+
+Temuan ini menggarisbawahi bahwa kemampuan menulis untuk jurnal bereputasi, terutama dalam aspek perumusan masalah (celah penelitian), kerincian metodologi, dan kedalaman interpretasi, merupakan keterampilan yang dapat dipelajari dan diasah. Untuk membantu mahasiswa meningkatkan kualitas manuskrip mereka agar dapat memenuhi standar publikasi yang dituntut, diperlukan fokus pada:
+1.  **Pengembangan Keterampilan Berpikir Kritis**: Melatih mahasiswa untuk secara kritis menganalisis literatur, mengidentifikasi kesenjangan pengetahuan, dan merumuskan celah penelitian yang kuat.
+2.  **Penyajian Metodologi yang Rinci**: Mendorong penulis untuk mendokumentasikan setiap aspek desain penelitian, partisipan, instrumen, dan prosedur analisis data dengan sangat transparan dan justifikasi yang kuat.
+3.  **Peningkatan Kemampuan Interpretasi dan Sintesis**: Melatih penulis untuk melampaui ringkasan hasil, menginterpretasikan makna temuan, mengaitkannya dengan literatur yang lebih luas, dan merumuskan implikasi teoretis dan praktis yang signifikan.
+
+Dengan demikian, artikel ini menawarkan sebuah peta jalan praktis untuk membantu mahasiswa dan peneliti muda dalam meningkatkan kualitas manuskrip mereka, sehingga dapat berkontribusi lebih efektif pada diskursus ilmiah dan memenuhi tuntutan publikasi yang dituntut.

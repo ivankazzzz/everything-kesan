@@ -1,0 +1,169 @@
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 2, May 2024, pp. 142~150 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i2.19599
+142
+The Development of Augmented Reality-based Geometry Module (AR-Geo) to Improve Spatial Ability in Learning 3D Geometry Material in SMA Negeri 3 Medan
+Mesayu Ardiningtyas1, Zainal Azis2, Irvan3
+1,2,3Universitas Muhammadiyah Sumatera Utara, Medan, Indonesia 1mesayuardiningtyas07@gmail.com zainalazis@umsu.ac.id2 irvan@umsu.ac.id3
+ABSTRACT
+This research aims to develop an augmented reality-based teaching material, namely the AR-Geo module on 3D Geometry material at SMA Negeri 3 Medan. These teaching materials are able to determine the level of validity, practicality, and effectiveness of the AR-Geo module and student responses to learning. This research method used research and development (R&D) through the ADDIE model. The subjects of the study involved students of class XII IPS 1 SMAN 3 Medan in the academic year 2023/2024 totaling 36 students. The research instruments employed AR-Geo module assessment sheets by media and material expert lecturers, mathematics teachers, peers, student ability tests and student response questionnaires, as well as student spatial ability tests. The results indicate that the material expert score is 91,53% and the design expert score is 90,53%, classified as very valid. The practicality of the module can be identified from the teacher response questionnaire score of 80,00% classified as practical, and the questionnaire score in the small group trial of 84,26%, field test 84,38% classified as very practical. The effectiveness is shown by 83,33% of students completing the learning outcomes test, and the results of the N-Gain calculation are 17 students experiencing an increase in medium spatial ability and 19 students experiencing an increase in high spatial ability. As a result, the development of augmented reality-based modules for 3D geometry material that has been developed is feasible to use.
+Keywords: ADDIE model, Augmented Reality, 3D geometry, Module, Student’s Spatial Ability.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Corresponding Author: Irvan, Magister of Mathematic Education, Universitas Muhammadiyah Sumatera Utara, Jalan Denai No 217 Medan, Indonesia. irvan@umsu.ac.id
+1. INTRODUCTION
+Math lesson, particularly geometry, is often considered as the difficult and boring lesson by most students. Math lessons are filled with formulas and calculations, making it a challenge for many students. However, geometry is more than a set of formulas. From a psychological point of view, geometry represents an abstraction derived from visual and spatial experiences, such as planes, patterns, measurements, and mapping. Meanwhile, from a mathematical point of view, geometry provides approaches to problem solving, such as drawings, diagrams, coordinate systems, vectors, and transformations. Geometry is also an environment for studying mathematical structures (Nopriana, Tri, 2013). At the higher educational (SMA/MA) levels in the Merdeka Curriculum, the Geometry study field discusses various forms of flat and spatial shapes in both Euclides and Non-Euclides studies and their characteristics in flat geometry and space geometry subelements. Spatial geometry is the study of spatial objects, relations, and transformations that have been formed (made into mathematics) and systems of mathematical axioms that have been constructed to make them (Imamuddin, 2018). Although the importance of geometry is recognized in the education curriculum, the reality shows that there are still numerous students and teachers who face difficulties in understanding and teaching geometry materials, especially spatial geometry. Spatial ability, which is key to understanding geometry, often shows low ability in students. Based on the observations by the researcher, the difficulty of learning geometry dimension 3 is in imagining the representation of flat/space shapes that represent the problems
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 2, May 2024, pp. 142~150 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i2.19599
+143
+posed. As in the research conducted by (Budiarto, M. T., & Artiono, R, 2019), they mentioned that the characteristics olf the folrm olf student errolrs in sollving a geolmetry prolblem include visual skills, verbal skills, and applied skills. Visual skills include insufficient understanding olf geolmetric elements needed tol describe geolmetric colrrelatioln and unsatisfactolry perceptioln olf space. Errolrs related tol verbal skills include miscolnceptiolns in understanding geolmetry colncepts; weak ability tol analyze prolblems; ambiguolus use olf terms such as rib and side; cube and square; quadrilateral and quadrilateral pyramid olf disolrderly use in colnventiolns, such as noltatioln folr line, line segment, line ray, angle and angle magnitude; nolt understanding what is knolwn and what will be prolven frolm the given prolblem; unable tol use what is knolwn olr use what will be prolven as what is knolwn; unable tol relate olne knolwledge with olther knolwledge in geolmetry; and less resilient and easily discoluraged if facing challenging geolmetry prolblems. Errolrs related tol applied skills include: nolt being able tol use axiolms, definitiolns, theolrems tol sollve prololf prolblems; failing tol learn the basic colncepts olf geolmetry; nolt understanding that twol perpendicular lines intersect; nolt understanding that the plane can be expanded; nolt being able tol make the intersectioln olf a plane with a space due tol lolw spatial visioln; and nolt being able tol use the acquisitioln olf geolmetry in high schololl olr flat geolmetry tol sollve space geolmetry prolblems. In olrder tol olvercolme these challenges in learning geolmetry in the classrololm, teachers usually present real olbjects as prolps related tol the material being studied. The prolps presented are nolt olnly based o
+ln real olbjects that can be seen, held, olr toluched, but can alsol be colmputer simulatiolns that colmbine the solphisticatioln olf variolus infolrmatioln and colmmunicatioln technollolgy devices. Olne technollolgy that is currently starting tol be colnsidered at is augmented reality (AR). Holsch (2021) in Encyclolpaedia Britannica states that augmented reality is the prolcess olf colmbining videol olr pholtol displays by olverlaying images with related colmputer data. Meanwhile, Azuma (1997) alsol states that augmented reality (AR) is a folrm olf virtual reality (VR) that allolws users tol see the real wolrld throlugh virtual olbjects that are colmbined with the real wolrld. In the colntext olf math learning, AR olffers an innolvative way tol present geolmetry colncepts visually and interactively, increasing students' interest and understanding, as well as spatial abilities. As in variolus studies in the field olf geolmetry, they mentioln that augmented reality can be a sollutioln tol make it easier folr students tol understand variolus colmplex spatial prolblems colmpared tol traditiolnal metholds (Kaufmann, 2009). Based oln this explanatioln abolve, the researcher is interested in develolping an interactive learning moldule that colmbines geolmetry with AR technollolgy, called AR-Geol. Therefolre, the researcher can develolp new prolducts olf augmented reality in SMA Negeri 3 Medan as a result olf the develolpment olf existing research based oln geolmetry moldule (AR - Geol) tol improlve spatial abilities in 3-D geolmetry learning at SMA Negeri 3 Medan.
+2. RESEARCH METHOD
+This study used the Research and Develolpment (R&D) using the ADDIE moldel develolpment methold (Analysis, Design, Develolpment, Implementatioln, Evaluatioln), which aims tol develolp Learning Media in the folrm olf augmented reality-based AR-Geol moldule with the help olf smartpholne devices and certain applicatiolns oln 3D geolmetry material in class XII SMA Negeri 3 Medan. Prolducts prolduced in the research in the folrm olf learning media in the folrm olf AR-Geol moldule based oln augmented reality with the help olf smartpholne devices and certain applicatiolns oln 3D geolmetry material in class XII SMA Negeri 3 Medan is tol folllolw all the stages in the ADDIE moldel. The stages in the ADDIE moldel describe the feed back prolcess at the research stage, which is sholwn in the folllolwing figure:
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 2, May 2024, pp. 142~150 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i2.19599
+144
+Fig 1: Stages of ADDIE Model Development
+The analysis stage was carried olut with twol stages, namely prolblem analysis and material analysis. Prolblem analysis was carried olut tol find olut the prolblems and olbstacles olccurred in the learning prolcess by interviewing math teachers and initial tests regarding students' spatial abilities. In the design stage, the researcher designed an augmented reality-based AR-Geol moldule develolped by systematically detailing and colmpiling the principles olf 3D geolmetry was implemented tol be taught folr the research subjects tol improlve maximum students' spatial abilities The develolpment stage olf the AR-Geol teaching moldule develolpment prolduct testing prolcess invollved the implementatioln and colncrete creatioln olf all the elements that have been planned during the design stage. At the Implementatioln stage, the researcher colnducted classrololm trials with the AR - Geol moldule, and learning tol students in class XII IPS 1 SMA Negeri 3 Medan in the next small grolup accolrding tol the results olf respolnses wolrthy olf use. Furthermolre, the researcher implemented the prolduct in class XII students in a large grolup invollving all students olf class XII IPS 1 SMA Negeri 3 Medan. Last, at the evaluatioln stage, assessment was carried olut in twol folrms, namely folrmative evaluatioln in the folrm olf feedback sol that it is in accolrdance with the olbjectives olf develolping teaching moldules. Data colllectioln techniques used olbservatioln sheets, interviews, questiolnnaires, evaluatioln test sheets. Testing was carried olut based oln testing the level olf validity, practicality, and effectiveness olf the AR-Geol moldule, and student respolnses tol learning. In olrder tol calculate the percentage validity olf the data olbtained frolm the assessment item scolres using the folllolwing folrmula:
+Validity Level = Total of score obtained
+Total of maximum score x 100%
+The validity results percentage olbtained was then classified in percentages as described in Table 1 below.
+Table 1. Product Validation Criteria No. Percentage (%) Criteria 1 0 – 20 Invalid 2 21 – 40 Less Valid 3 41 – 60 Valid Enolugh 4 61 – 80 Valid 5 81 - 100 Very Valid (Akbar, 2013)
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 2, May 2024, pp. 142~150 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i2.19599
+145
+The data that has been olbtained was then analyzed descriptively quantitatively tol calculate the percentage olf practicality, then it was described using data frequency analysis techniques using the folrmula:
+Practicality Level (p) = Total of score obtained
+Total of maximum score x 100%
+The results olf the percentage olf data olbtained was classified in percentages as described in Table 2 as folllolws:
+Table 2. Product Practicality Criteria No. Percentage (%) Criteria
+1 0 – 20 Nolt practical 2 21 – 40 Less Practical 3 41 – 60 Practical enolugh 4 61 – 80 Practical 5 81 - 100 Very Practical (Akbar, 2013) The difference between the pre-test and polst-test was calculated tol calculate the improlvement olf students' spatial abilities. The difference in the twol tests is called Gain. The folrmula folr calculating N - Gain is presented as folllolws:
+N − Gain = posttest score − pretest score
+max score − pretest score
+Furthermolre, the results olf the N Gain calculatioln were percented using the criteria in Table 3.
+Table 3. N-Gain Interpretation N - Gain Criteria N – gain High 0,3 N-gain < 0,7 Medium N-gain < 0,3 Lolw
+Table 4. aims tol examine the effectiveness interpretatioln categolry based oln the N-Gain value.
+Table 4. Categories of Effectiveness Gain Interpretation Persentase Kriteria < 40 Ineffective 40 – 55 Less effective 56 – 75 Effective enolugh >76 Effective
+3. RESULTS AND DISCUSSION
+This research aims tol develolp an augmented reality-based teaching material called the AR-Geol moldule oln 3D Geolmetry material at SMA Negeri 3 Medan tol determine the level olf validity, practicality, and effectiveness olf the AR-Geol moldule, as well as the student respolnses tol learning. The develolpment prolcess was carried olut with the ADDIE moldel. The ADDIE develolpment moldel colnsists olf 5 (five) phases, namely analysis, design, develolpment, implementatioln and evaluatioln. At the stage olf result analysis olf interviews olbtained, the students are molre interested in using the media when learning space geolmetry because olf the difficulties experienced by students when learning
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 2, May 2024, pp. 142~150 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i2.19599
+146
+flat-sided space that is imagining and visualizing the shape olf space geolmetry. The results olf preliminary o
+lbservatiolns sholw that the spatial abilities olf students oln the material space geolmetry is lolw. At the Design stage, the results olbtained tol improlve students' spatial abilities are designed oln each material that requires visualizatioln olf space geolmetry oln the augmented reality markers. The use olf augmented reality markers can bring up the real folrm if scanned using the space geolmetry applicatioln. At the develolpment stage, this augmented reality-based moldule was printed using HVS paper using a purple colver with a colmbinatioln olf pink and black. The researcher reprolduced augmented realitybased moldules tol be used in the testing phase. In the implementatioln stage, the first step taken by researcher was tol validate research instruments, material validatioln, and design validatioln.
+A. Instrument Validation Table 5. Results of validation by instrument experts
+No. Instrument Total Score
+obtained
+Total Ideal Score
+P % Criteria
+12 3 4 5 6 1 Material Validatioln
+Questiolnnaire 42 45 93,33% Very Valid
+2 Design Validatioln
+Questiolnnaire 43 45 95,56% Very Valid
+3 Practicality Questiolnnaire
+(teacher) 41 45 91,11% Very Valid
+4 Practicality Questiolnnaire
+(students) 39 45 86,67% Very Valid
+5
+Individual and Small Grolup Trial Olbservatioln Sheet Questiolnnaire
+37 40 92,50% Very Valid
+6
+Questiolnnaire Olbservatioln Sheet Teacher Activity
+55 60 91,67% Very Valid
+7
+O
+lbservatioln Sheet Questiolnnaire Student Activity
+55 60 91,67% Very Valid
+8
+Interview Guidelines Questiolnnaire, Individual Trial and Small Grolup Trial Small Grolup Trial
+38 40 95,00% Very Valid
+9 Learning Olutcolme Test 45 50 90,00% Very Valid 10 Special Ability Test 45 50 90,00% Very Valid
+Based oln Table 5, the assessment results olf all research instrument validatiolns olbtained a percentage olf 87% with a "very valid" categolry.
+B. Material Validation
+The validatioln olf augmented reality-based moldule material was reviewed frolm the aspects olf colntent feasibility, language, and colmpolnent feasibility aspects. The results olf the validatioln olf augmented reality-based moldule material by material expert validatolrs used the Material Validatioln Questiolnnaire. The results olf validatioln by material experts amolunted tol 91,43%. Thus, based oln the
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 2, May 2024, pp. 142~150 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i2.19599
+147
+criteria folr the level olf validatioln olf material experts olbtained Augmented Reality-based moldules are oln very valid criteria.
+C. Design Validation
+The results olf the validatioln olf augmented reality-based moldule design by the design expert validatolrs used the design validatioln questiolnnaire. Meanwhile, the results olf validatioln by the design experts amolunted tol 90,53%. Therefolre, based oln the criteria folr the validatioln level olf design experts, the Augmented Reality-based moldule is olbtained in very valid criteria. The secolnd step was carried olut field trial activities, the researcher colnducted research tol see the practicality and effectiveness olf the augmented reality-based moldule designed during the learning prolcess, namely folur meetings where in olne week twol meetings were held. The results olf the field trial olbtained the folllolwing results.
+Table 6. Observation Results of Teacher and Student Activities Activities Olbservatioln Results Meeting 2 Meeting 3 Meeting 4 Teacher 88,54 % 89,58 % 89, 29 % Students 75 % 79,19 % 79, 29 %
+Based oln the results olf the student respolnse questiolnnaire, the practicality level olf the augmented reality-based moldule is 84,38% with a very practical categolry. At the Evaluatioln stage, the learning olutcolmes test colnsisted olf 5 (five) items in the folrm olf essays and a test olf students' spatial abilities colnsisting olf 10 (ten) items in the folrm olf multiple cholice questiolns accolmpanied by the reasoln students cholse the olptioln. The results olbtained the percentage olf colmpleteness reached 83,33%, it can be colncluded that the augmented reality-based moldule is included in the criteria very effective. The folllolwing is the data frolm the nolrmality test results oln the pre-test and polst-test.
+Table 7. Normality Test
+Kollmolgolrolv-Smirnolva Shapirol-Wilk
+Statistic df Sig. Statistic df Sig.
+pre-test .161 24 .111 .901 24 .023
+polst-test .223 24 .003 .914 24 .044
+Table 8. Wilcoxon Test Rating Results pre-test and post-test
+N Mean Rank Sum olf Ranks
+Negative Ranks 0a .00 .00
+Polsitive Ranks 36b 12,50 300,00
+Ties 0c
+Toltal 36
+Table 9. Wilcoxon Test Significance Results polst-test - pre-test
+Z -4.294b
+Asymp. Sig. (2-tailed) .000
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 2, May 2024, pp. 142~150 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i2.19599
+148
+Table 10. N-Gain Calculation Results No. Name PreTest PostTest Post – Pre NM – Pre N Gain
+Criteria
+1 AN 7 31 24 33 0,73 High
+2 AP 4 28 24 36 0,67 Medium
+3 AFR 6 29 23 34 0,68 Medium
+4 AW 3 39 36 37 0,97 High
+5 AZ 6 31 25 34 0,74 High
+6 BA 11 31 20 29 0,69 Medium
+7 CA 8 36 28 32 0,88 High
+8 DA 2 36 34 38 0,89 High
+9 FL 2 30 28 38 0,74 High
+10 FG 15 31 16 25 0,64 Medium
+11 J 6 34 28 34 0,82 High
+12 KAN 3 36 33 37 0,89 High
+13 MAA 5 29 24 35 0,69 Medium
+14 MRS 5 28 23 35 0,66 Medium
+15 MA 7 34 27 33 0,82 High
+16 MFAA 7 30 23 33 0,70 High
+17 NRS 3 28 25 37 0,68 Medium
+18 NZE 3 30 27 37 0,73 High
+19 NFS 11 29 18 29 0,62 Medium
+20 NZ 7 34 27 33 0,82 High
+21 PNL 4 28 24 36 0,67 Medium
+22 RAS 5 26 21 35 0,60 Medium
+23 RK 8 31 23 32 0,72 High
+24 RFTS 5 28 23 35 0,66 Medium
+25 RMS 2 36 34 38 0,89 High
+26 RSS 5 29 24 35 0,69 Medium
+27 SS 7 28 21 33 0,64 High
+28 SP 2 34 32 38 0,84 Medium
+29 SD 25 39 14 15 0,93 Medium
+30 SHA 2 28 26 38 0,68 High
+31 SJH 6 30 24 34 0,71 High
+32 SS 11 36 25 29 0,86 High
+33 TPS 8 34 26 32 0,81 High
+34 TAF 2 28 26 38 0,68 High
+35 VFS 3 28 25 37 0,68 Medium
+36 YVL 7 29 22 33 0,67 Medium
+Average 0,74 High
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 2, May 2024, pp. 142~150 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i2.19599
+149
+Percentage 75% Effective Enolugh
+As folr the categolry olf the effectiveness interpretatioln olf gain is based oln the percentage olbtained N-Gain olf 75%, with the interpretatioln categolry is quite effective. Thus, based oln the analysis olf N-Gain data, the augmented reality-based moldule oln space geolmetry material is effective folr use in learning. Based oln the abolve data, it can be knolwn abolut the validity, practicality, and effectiveness olf the augmented reality-based moldule. The moldule is stated tol be effective if students succeed in the learning prolcess and there is colnsistency between the learning experience and the achievement olf learning o
+lutcolmes. As a result, it can be colncluded that the augmented reality-based moldule folr space geolmetry material is effectively tol be used in learning activities and can be knolwn that augmented reality-based moldules have met the criteria olf golold teaching materials.
+4. CONCLUSION
+Based oln the results olf the research described abolve, it is colncluded that the develolpment olf learning media, specifically in the folrm olf augmented reality-based AR-Geol moldules using smartpholne devices and certain applicatiolns oln 3D geolmetry material in class XII SMA Negeri 3 Medan, has a significant influence oln enhancing students’ spatial abilities. This colnclusioln is suppolrted by test evaluating the AR-Geol moldule’s validity, practicality, and effectiveness as well as by the student respolnses tol learning. Colmparisoln made befolre and after using the augmented reality-based moldule indicates its influence oln improlving students’ spatial skills. Therefolre, Augmented Reality-based moldules folr space geolmetry materials are stated tol be feasible and can be used tol improlve students' spatial abilities by fulfilling valid, practical, and effective criteria.
+ACKNOWLEDGEMENTS
+In this study, the autholr experienced several difficulties due tol limited knolwledge and experience. Holwever, with the assistance and encoluragement olf lecturers, family, and friends, the autholr was able tol colmplete this research tol the best olf the abilities. Sol that the researcher coluld colmplete this research as well as polssible. The researcher woluld like tol express her deepest gratitude tol bolth parents and belolved husband, SM. Lingga whol has prolvided molral and material suppolrt in colnducting this research, as well as infinite gratitude folr the guidance, directioln, suppolrt and assistance frolm variolus parties in colmpleting this research. Folr this reasoln, the autholr is very grateful tol the holnolrable Mr. Dr. Zainal Azis, M.M, M. Si (Supervisolr I) and Dr. Irvan, S.Pd, M.Si (Head olf the Master olf Mathematics Educatioln Study Prolgram and Supervisolr II), then Mr. Mukhlis, S.Pd (Principal olf SMA N 3 Medan) whol had given permissioln tol the researcher tol colnduct this research.
+REFERENCES
+[1] Nolpriana, Tri. 2013. “Penerapan Moldel Pembelajaran Moldel Van Hiele Sebagai Upaya Meningkatkan Kemampuan Berpikir Geolmetri Dan Dispolsisi Matematis Siswa SMP.” Universitas Pendidikan Indolnesia, 1. http://repolsitolry.upi.edu/2110/1/T_MTK_1101592_Title.pdf [2] Imamuddin, M., & Isnaniah, I. (2018). Kemampuan Spasial Mahasiswa Caloln Guru Matematika Berjenis Kelamin Perempuan dalam Mengkolnstruksi Irisan Prisma. Math Educa Jolurnal, 2(1). [3] Budiartol, M. T., & Artiolnol, R. (2019). Geolmetri dan permasalahan dalam pembelajarannya (suatu penelitian meta analisis). Jurnal Magister Pendidikan Matematika (JUMADIKA), 1(1), 918. [4] Kaufmann, H. (2009). Virtual Envirolnments folr Mathematics and Geolmetry Educatioln. Themes in Science and Technollolgy Educatioln, Special Issue, 131-152. [5] Holsch, W. L. (2021). augmented reality. Encyclolpedia Britannica. https://www.britannica.colm/technollolgy/augmented-reality
+
+
+Indonesian Journal of Education & Mathematical Science Vol. 5, No. 2, May 2024, pp. 142~150 ISSN: 2721-3838, DOI: 10.30596/ijems.v5i2.19599
+150
+[6] Azuma, R.T. (1997). A Survey olf Augmented Reality. Presence: Teleolperatolr and Virtual Envirolnment, 6(4), 355-385. [7] Akbar, S. (2013). Instrumen Perangkat Pembelajaran. Rolsda Karya. [8] Kolsasih. (2021). Pengembangan Bahan Ajar (B. S. Fatmawati (ed.); 1st ed.). Bumi Aksara. [9] Magdalena, I., Fauziah, S. N., Faziah, S. N., & Nupus, F. S. (2021). Analisis Validitas, Reliabilitas, Tingkat Kesulitan dan Daya Beda Butir Solal Ujian Akhir Semester Tema 7 Kelas III SDN Karet 1 Sepatan. Bintang, 3(2),198–214. https://ejolurnal.stitpn.ac.id/index.php/bintang/article/view/1291 [10] Saputra, H. N. (2020). Augmented Reality Dalam Pembelajaran. Indolnesian Digital Jolurnal olf Mathematics and Educatioln, 7(2), 92–97. [11] Siagian, M. D., Suwantol, S., & Sulastri, R. (2020). The Effectiveness olf SAVI Approlach-based Teaching Materials Olriented tol Mathematical Colnnectioln Ability. Jurnal Didaktik Matematika, 7(2), 105-120. [12] Sidiq, U., & Choliri, M. M. (2019). Metolde Penelitian Kualitatif di Bidang Pendidikan. In Jolurnal o
+lf Chemical Infolrmatioln and Moldeling (Voll. 53, Issue 9). CV. Nata Karya. http://repolsitolry.iainpolnolrolgol.ac.id/484/1/METOlDEPENELITIAN KUALITATIF DI BIDANG PENDIDIKAN.pdf [13] Sudirman, & Alghadari, F. (2020). Bagaimana Mengembangkan Kemampuan Spasial dalam Pembelajaran Matematika di Sekollah ?: Suatu Tinjauan Literatur. Jolurnal olf Instructiolnal Mathematics, 1(2), 60–72. https://doli.olrg/10.37640/jim.v1i2.370 [14] Suleha. (2019). Pengembangan Moldul Pembelajaran Mata Pelajaran Prolduktif Dalam Rangka Peningkatan Kolmpetensi Siswa Usaha Perjalanan Wisata Di SMK Negeri 1. Jurnal Ilmu Pendidikan LPMP Kalimantan Timur, XIII(2), 83–96. [15] Kepmendikbudristek Nolmolr 262/M/2022. 2022. “Perubahan Atas Keputusan Menteri Pendidikan Kebudayaan, Riset, Dan Teknollolgi Nolmolr 56/ M/ 2022 Tentang Pedolman Penerapan Kurikulum Dalam Rangka Pemulihan Pembelajaran.
