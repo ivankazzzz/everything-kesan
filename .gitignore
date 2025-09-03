@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.log
+# Ignore PDF binaries unless explicitly tracked
+*.pdf
+
+# Git LFS suggestion
+# To track large files instead of ignoring, run: gh repo clone ... then git lfs track "*.pdf" and git add .gitattributes
