@@ -30,6 +30,7 @@ def main():
     pdf1_path = os.path.join(workspace_path, "v7n2-007.pdf")
     pdf2_path = os.path.join(workspace_path, "v7n2-024.pdf")
     pdf3_path = os.path.join(workspace_path, "Instrumen_Model_Valid_Isi (1).pdf")
+    pdf4_path = os.path.join(workspace_path, "buku_Model_Kesan_23_agustus_2025 (1).pdf")
     md_folder = os.path.join(workspace_path, "MD")
     md_kesan_folder = os.path.join(workspace_path, "MD KESAN")
     
@@ -53,6 +54,13 @@ def main():
     if text3:
         output3_path = os.path.join(md_kesan_folder, "Instrumen_Model_Valid_Isi.md")
         save_as_markdown(text3, output3_path, "Instrumen Model Valid Isi")
+        
+    # Convert fourth PDF
+    print("Converting fourth PDF...")
+    text4 = pdf_to_text(pdf4_path)
+    if text4:
+        output4_path = os.path.join(md_folder, "buku_Model_Kesan_23_agustus_2025.md")
+        save_as_markdown(text4, output4_path, "Buku Model KESAN 23 Agustus 2025")
 
 if __name__ == "__main__":
     main()
